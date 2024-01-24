@@ -1,0 +1,1476 @@
+
+<android.view.View: void set Alpha(float)>
+
+<android.view.View: void setBackground(android.graphics.drawable.Drawable)>
+
+<android.view.View: void setBackgroundColor(int)>
+
+<android.view.View: void setBackgroundDrawable(android.graphics.drawable.Drawable)>
+
+<android.view.View: void setBackgroundResource(int)>
+
+<android.view.View: void setForeground(android.graphics.drawable.Drawable)>
+
+<android.view.View: void setVisibility(int)>
+
+<android.widget.ProgressBar: void setProgress(int)>
+
+<android.widget.ProgressBar: void setProgress(int,boolean)>
+
+<android.widget.ProgressBar: void incrementProgressBy(int)>
+
+<android.widget.ProgressBar: void incrementSecondaryProgressBy(int)>
+
+<android.widget.TextView: void setHint(java.lang.CharSequence)>
+
+<android.widget.TextView: void setHint(int)>
+
+<android.widget.TextView: void setInputExtras(int)>
+
+<android.widget.TextView: setText(java.lang.CharSequence)>
+
+<android.widget.TextView: setText(java.lang.CharSequence,android.widget.TextView.BufferType)>
+
+<android.widget.TextView: setText(char[],int,int)>
+
+<android.widget.TextView: setText(int)>
+
+<android.widget.TextView: setText(int,android.widget.TextView.BufferType)>
+
+<android.widget.TextView: setText(java.lang.CharSequence,android.widget.TextView.BufferType,boolean,int)>
+
+<android.widget.TextView: void setHintTextColor(android.content.res.ColorStateList)>
+
+<android.widget.TextView: void setHintTextColor(int)>
+
+<android.widget.TextView: void setLinkTextColor(android.content.res.ColorStateList)>
+
+<android.widget.TextView: void setPadding(int,int,int,int)>
+
+<android.widget.TextView: void setPaddingRelative(int,int,int,int)>
+
+<android.widget.TextView: void setTextColor(int)>
+
+<android.widget.TextView: void setTextColor(android.content.res.ColorStateList)>
+
+<android.widget.ImageView: void setImageBitmap(android.graphics.Bitmap)>
+
+<android.widget.ImageView: void setImageDrawable(android.graphics.drawable.Drawable)>
+
+<android.widget.ImageView: void setImageIcon(android.graphics.drawable.Icon)>
+
+<android.widget.ImageView: Runnable setImageIconAsync(android.graphics.drawable.Icon)>
+
+<android.widget.ImageView: void setImageResource(int)>
+
+<android.widget.ImageView: Runnable setImageResourceAsync(int)>
+
+<android.widget.ImageView: void setImageURI(android.net.Uri)>
+
+<android.widget.ImageView: Runnable setImageURIAsync(android.net.Uri)>
+
+<android.widget.ImageView: void setAlpha(int)>
+
+<android.widget.ImageView: void setImageAlpha(int)>
+
+<android.app.AlertDialog: void setMessage(java.lang.CharSequence)>
+
+<android.app.AlertDialog: Builder setMessage(java.lang.CharSequence)>
+
+<android.app.AlertDialog: Builder setMessage(int)>
+
+<android.app.AlertDialog: void setTitle(java.lang.CharSequence)>
+
+<android.app.AlertDialog: Builder setTitle(java.lang.CharSequence)>
+
+<android.app.AlertDialog: Builder setTitle(int)>
+
+<android.app.AlertDialog: void setView(android.view.View)>
+
+<android.app.AlertDialog: void setView(android.view.View,int,int,int,int)>
+
+<android.app.AlertDialog: Builder setView(int)>
+
+<android.app.AlertDialog: Builder setView(View)>
+
+<android.app.AlertDialog: Builder setView(android.view.View,int,int,int,int)>
+
+<android.app.AlertDialog: void setCustomTitle(android.view.View)>
+
+<android.app.AlertDialog: Builder setCustomTitle(android.view.View)>
+
+<android.app.AlertDialog: void setIcon(android.graphics.drawable.Drawable)>
+
+<android.app.AlertDialog: void setIcon(int)>
+
+<android.app.AlertDialog: Builder setIcon(android.graphics.drawable.Drawable)>
+
+<android.app.AlertDialog: Builder setIcon(int)>
+
+<android.app.AlertDialog: Builder setNegativeButton(int,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setNegativeButton(java.lang.CharSequence,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setPositiveButton(int,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setPositiveButton(java.lang.CharSequence,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setNeutralButton(int,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setNeutralButton(java.lang.CharSequence,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setSingleChoiceItems(java.lang.CharSequence[],int,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setSingleChoiceItems(android.widget.ListAdapter,int,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setSingleChoiceItems(android.database.Cursor,int,String,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setSingleChoiceItems(int,int,android.content.DialogInterface.OnClickListener)>
+
+<android.app.AlertDialog: Builder setMultiChoiceItems(int,boolean[],android.content.DialogInterface.OnmultiChoiceClickListener)>
+
+<android.app.AlertDialog: Builder setMultiChoiceItems(java.lang.CharSequence[],boolean[],android.content.DialogInterface.OnmultiChoiceClickListener)>
+
+<android.app.AlertDialog: Builder setMultiChoiceItems(android.database.Cursor,String,String,android.content.DialogInterface.OnmultiChoiceClickListener)>
+
+<android.media.MediaPlayer: void setDataSource(java.io.FileDescriptor)>
+<android.media.MediaPlayer: void setDataSource(java.lang.String)>
+<android.media.MediaPlayer: void setDataSource(android.context.Context,android.net.Uri)>
+<android.media.MediaPlayer: void setDataSource(java.io.FileDescriptor,long,long)>
+<android.media.MediaPlayer: void setDataSource(android.media.MediaDataSource)>
+<android.media.MediaPlayer: void setDataSource(android.context.Context,android.net.Uri,java.util.Map<String,String>)>
+<android.media.MediaPlayer: void setDataSource(android.context.Context,android.net.Uri,java.util.Map<String,String>,java.util.List<java.net.HttpCookie>)>
+<android.media.MediaPlayer: void setDataSource(android.content.res.AssetFileDescriptor)>
+
+<android.media.SoundPool: int load(android.context.Context,int,int)>
+<android.media.SoundPool: int load(java.lang.String,int)>
+<android.media.SoundPool: int load(android.content.res.AssetFileDescriptor,int)>
+<android.media.SoundPool: int load(java.io.FileDescriptor,long,long,int)>
+
+<android.media.AudioTrack: int write(byte[],int,int)>
+<android.media.AudioTrack: int write(byte[],int,int,int)>
+<android.media.AudioTrack: int write(short[],int,int)>
+<android.media.AudioTrack: int write(short[],int,int,int)>
+<android.media.AudioTrack: int write(float[],int,int,int)>
+<android.media.AudioTrack: int write(java.nio.ByteBuffer,int,int)>
+<android.media.AudioTrack: int write(java.nio.ByteBuffer,int,int,long)>
+
+<android.media.AsyncPlayer: void play(android.context.Context,android.net.Uri,boolean,int)>
+<android.media.AsyncPlayer: void play(android.context.Context,android.net.Uri,boolean,android.media.AudioAttributes)>
+
+<android.media.AudioTrack: boolean loadJetFile(String)>
+<android.media.AudioTrack: boolean loadJetFile(android.content.res.AssetFileDescriptor)>
+
+<android.media.Ringtone: void setAudioAttributes(android.media.AudioAttributes)>
+<android.media.Ringtone: void setLooping(boolean)>
+<android.media.Ringtone: void setVolume(float)>
+<android.media.RingtoneManager: android.media.Ringtone getRingtone(int)>
+<android.media.RingtoneManager: android.media.Ringtone getRingtone(android.context.Context,android.net.Uri)>
+<android.media.RingtoneManager: android.media.Ringtone getRingtone(android.context.Context,android.net.Uri,android.media.VolumeShaper.Configuration)>
+<android.media.RingtoneManager: android.media.Ringtone getRingtone(android.context.Context,android.net.Uri,int)>
+<android.media.RingtoneManager: int getDefaultType(android.net.Uri)>
+<android.media.RingtoneManager: android.net.Uri getDefaultUri(int)>
+<android.media.Ringtone: android.net.Uri getRingtoneUri(int)>
+<android.media.Ringtone: void setActualDefaultRingtoneUri(android.context.Context,int,android.net.Uri)>
+
+<io.vov.vitamio.MediaPlayer: void <init>(android.context.Context)>
+<io.vov.vitamio.MediaPlayer: void <init>(android.context.Context,boolean)>
+<io.vov.vitamio.MediaPlayer: void setDataSource(java.lang.String)>
+<io.vov.vitamio.MediaPlayer: void setDataSource(android.context.Context,java.net.Uri)>
+<io.vov.vitamio.MediaPlayer: void setDataSource(android.context.Context,java.net.Uri,java.util.Map<java.lang.String,java.lang.String>)>
+<io.vov.vitamio.MediaPlayer: void setDataSource(java.lang.String,java.util.Map<java.lang.String,java.lang.String>)>
+<io.vov.vitamio.MediaPlayer: void setDataSource(java.lang.String,java.lang.String[],java.lang.String[])>
+<io.vov.vitamio.widget.VideoView: void setVideoPath(java.lang.String)>
+<io.vov.vitamio.widget.VideoView: void setVideoURI(java.net.Uri)>
+<io.vov.vitamio.widget.VideoView: void setVideoURI(java.net.Uri,java.util.Map<java.lang.String,java.lang.String>)>
+
+<android.media.VideoView: void setVideoURI(android.net.Uri)>
+<android.media.VideoView: void setVideoURI(android.net.Uri,java.util.Map<String,String>)>
+
+
+
+<java.net.Socket: void connect(java.net.SocketAddress)>
+<java.net.Socket: void connect(java.net.SocketAddress,int)>
+<java.net.Socket: java.io.OutputStream getOutputStream()>
+<java.net.Socket: java.io.InputStream getInputStream()>
+
+<java.net.URL: java.net.URLConnection openConnection()>
+<java.net.URL: java.net.URLConnection openConnection(java.net.Proxy)>
+<java.net.URL: java.io.InputStream openStream()>
+<java.net.URLConnection: void connect()>
+<java.net.URLConnection: void setConnectTimeout(int)>
+<java.net.URLConnection: void setReadTimeout(int)>
+<java.net.URLConnection: java.io.OutputStream getOutputStream()>
+<java.net.URLConnection: java.io.InputStream getInputStream()>
+<java.net.HttpURLConnection: void setRequestMethod(String)>
+<java.net.HttpURLConnection: int getResponseCode()>
+<java.net.HttpURLConnection: java.io.InputStream getInputStream()>
+
+<javax.net.ssl.HttpsURLConnection: void setDefaultSSLSocketFactory(javax.net.ssl.SSLSocketFactory)>
+<javax.net.ssl.HttpsURLConnection: void setDefaultHostnameVerifier(javax.net.ssl.HostnameVerifier)>
+<javax.net.ssl.HttpsURLConnection: void setHostnameVerifier(javax.net.ssl.HostnameVerifier)>
+<javax.net.ssl.HttpsURLConnection: void setSSLSocketFactory(javax.net.ssl.SSLSocketFactory)>
+
+<android.webkit.WebView: void loadUrl(java.lang.String,java.util.Map<java.lang.String,java.lang.String>)>
+<android.webkit.WebView: void loadUrl(java.lang.String)>
+<android.webkit.WebView: void loadData(java.lang.String,java.lang.String,java.lang.String)>
+<android.webkit.WebView: void loadDataWithBaseURL(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)>
+
+<okhttp3.internal.connection.RealCall: okhttp3.Response execute()>
+<okhttp3.Call: okhttp3.Response execute()>
+<com.squareup.okhttp.Call: com.squareup.okhttp.Response execute()>
+
+<okhttp3.internal.connection.RealCall: void enqueue(okhttp3.Callback)>
+<okhttp3.Call: void enqueue(okhttp3.Callback)>
+<com.squareup.okhttp.Call: void enqueue(com.squareup.okhttp.Callback)>
+
+<com.google.firebase.perf.network.FirebasePerfOkHttpClient: void enqueue(okhttp3.Call,okhttp3.Callback)>
+<com.google.firebase.perf.network.FirebasePerfOkHttpClient: okhttp3.Response execute(okhttp3.Call)>
+
+<retrofit2.Call: void enqueue(retrofit2.Callback)>
+
+com.android.volley.Response parseNetworkResponse(com.android.volley.NetworkResponse)
+<com.android.volley.Request: com.android.volley.Response<T> parseNetworkResponse(com.android.volley.NetworkResponse)>
+<com.android.volley.toolbox.JsonArrayRequest: com.android.volley.Response<org.json.JSONArray> parseNetworkResponse(com.android.volley.NetworkResponse)>
+<com.android.volley.toolbox.StringRequest: com.android.volley.Response<java.lang.String> parseNetworkResponse(com.android.volley.NetworkResponse)>
+<com.android.volley.toolbox.JsonRequest: com.android.volley.Response<T> parseNetworkResponse(com.android.volley.NetworkResponse)>
+
+<com.android.volley.toolbox.StringRequest: void <init>(int,java.lang.String,com.android.volley.Response.Listener<java.lang.String>,com.android.volley.Response.ErrorListener)>
+<com.android.volley.toolbox.StringRequest: void <init>(java.lang.String,com.android.volley.Response.Listener<java.lang.String>,com.android.volley.Response.ErrorListener)>
+<com.android.volley.toolbox.JsonObjectRequest: void <init>(int,java.lang.String,org.json.JSONObject,com.android.volley.Response.Listener<org.json.JSONObject>,com.android.volley.Response.ErrorListener)>
+<com.android.volley.toolbox.JsonObjectRequest: void <init>(java.lang.String,org.json.JSONObject,com.android.volley.Response.Listener<org.json.JSONObject>,com.android.volley.Response.ErrorListener)>
+<com.android.volley.toolbox.JsonArrayRequest: void <init>(int,java.lang.String,org.json.JSONArray,com.android.volley.Response.Listener<org.json.JSONArray>,com.android.volley.Response.ErrorListener)>
+<com.android.volley.toolbox.JsonArrayRequest: void <init>(java.lang.String,com.android.volley.Response.Listener<org.json.JSONArray>,com.android.volley.Response.ErrorListener)>
+
+<org.apache.hc.client5.http.impl.async.CloseableHttpAsyncClient: java.util.concurrent.Future execute(org.apache.hc.core5.http.HttpHost,org.apache.hc.core5.http.nio.AsyncRequestProducer,org.apache.hc.core5.http.nio.AsyncResponseConsumer,org.apache.hc.core5.http.nio.HandlerFactory<org.apache.hc.core5.http.nio.AsyncPushConsumer>,org.apache.hc.core5.http.protocol.HttpContext,org.apache.hc.core5.concurrent.FutureCallback)>
+<org.apache.hc.client5.http.impl.async.CloseableHttpAsyncClient: java.util.concurrent.Future execute(org.apache.hc.core5.http.nio.AsyncRequestProducer,org.apache.hc.core5.http.nio.AsyncResponseConsumer,org.apache.hc.core5.http.nio.HandlerFactory<org.apache.hc.core5.http.nio.AsyncPushConsumer>,org.apache.hc.core5.http.protocol.HttpContext,org.apache.hc.core5.concurrent.FutureCallback)>
+<org.apache.hc.client5.http.impl.async.CloseableHttpAsyncClient: java.util.concurrent.Future execute(org.apache.hc.core5.http.nio.AsyncRequestProducer,org.apache.hc.core5.http.nio.AsyncResponseConsumer,org.apache.hc.core5.http.protocol.HttpContext,org.apache.hc.core5.concurrent.FutureCallback)>
+<org.apache.hc.client5.http.impl.async.CloseableHttpAsyncClient: java.util.concurrent.Future execute(org.apache.hc.core5.http.nio.AsyncRequestProducer,org.apache.hc.core5.http.nio.AsyncResponseConsumer,org.apache.hc.core5.concurrent.FutureCallback)>
+<org.apache.hc.client5.http.impl.async.CloseableHttpAsyncClient: java.util.concurrent.Future execute(org.apache.hc.client5.http.async.methods.SimpleHttpRequest,org.apache.hc.core5.http.protocol.HttpContext,org.apache.hc.core5.concurrent.FutureCallback<org.apache.hc.client5.http.async.methods.SimpleHttpResponse>)>
+<org.apache.hc.client5.http.impl.async.CloseableHttpAsyncClient: java.util.concurrent.Future execute(org.apache.hc.client5.http.async.methods.SimpleHttpRequest,org.apache.hc.core5.concurrent.FutureCallback<org.apache.hc.client5.http.async.methods.SimpleHttpResponse>)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: org.apache.hc.client5.http.impl.classic.CloseableHttpResponse execute(org.apache.hc.core5.http.HttpHost,org.apache.hc.core5.http.ClassicHttpRequest,org.apache.hc.core5.http.protocol.HttpContext)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: org.apache.hc.client5.http.impl.classic.CloseableHttpResponse execute(org.apache.hc.core5.http.ClassicHttpRequest,org.apache.hc.core5.http.protocol.HttpContext)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: org.apache.hc.client5.http.impl.classic.CloseableHttpResponse execute(org.apache.hc.core5.http.ClassicHttpRequest)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: org.apache.hc.client5.http.impl.classic.CloseableHttpResponse execute(org.apache.hc.core5.http.HttpHost,org.apache.hc.core5.http.ClassicHttpRequest)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: java.lang.Object execute(org.apache.hc.core5.http.ClassicHttpRequest,org.apache.hc.core5.http.io.HttpClientResponseHandler)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: java.lang.Object execute(org.apache.hc.core5.http.ClassicHttpRequest,org.apache.hc.core5.http.protocol.HttpContext,org.apache.hc.core5.http.io.HttpClientResponseHandler)>
+<org.apache.hc.client5.http.impl.classic.CloseableHttpClient: java.lang.Object execute(org.apache.hc.core5.http.HttpHost,org.apache.hc.core5.http.ClassicHttpRequest,org.apache.hc.core5.http.protocol.HttpContext,org.apache.hc.core5.http.io.HttpClientResponseHandler)>
+<org.apache.http.client.HttpClient: java.lang.Object execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.client.ResponseHandler)>
+<org.apache.http.client.HttpClient: java.lang.Object execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.client.ResponseHandler, org.apache.http.protocol.HttpContext)>
+<org.apache.http.client.HttpClient: java.lang.Object execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.client.ResponseHandler)>
+<org.apache.http.client.HttpClient: java.lang.Object execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.client.ResponseHandler, org.apache.http.protocol.HttpContext)>
+<org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.HttpHost, org.apache.http.HttpRequest)>
+<org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.protocol.HttpContext)>
+<org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)>
+<org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.protocol.HttpContext)>
+<org.apache.http.impl.client.CloseableHttpClient: java.lang.Object execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.client.ResponseHandler)>
+<org.apache.http.impl.client.CloseableHttpClient: java.lang.Object execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.client.ResponseHandler, org.apache.http.protocol.HttpContext)>
+<org.apache.http.impl.client.CloseableHttpClient: java.lang.Object execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.client.ResponseHandler)>
+<org.apache.http.impl.client.CloseableHttpClient: java.lang.Object execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.client.ResponseHandler, org.apache.http.protocol.HttpContext)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.HttpResponse execute(org.apache.http.HttpHost, org.apache.http.HttpRequest)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.HttpResponse execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.protocol.HttpContext)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.HttpResponse execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.protocol.HttpContext)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.client.methods.CloseableHttpResponse execute(org.apache.http.HttpHost, org.apache.http.HttpRequest)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.client.methods.CloseableHttpResponse execute(org.apache.http.HttpHost, org.apache.http.HttpRequest, org.apache.http.protocol.HttpContext)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.client.methods.CloseableHttpResponse execute(org.apache.http.client.methods.HttpUriRequest)>
+<org.apache.http.impl.client.CloseableHttpClient: org.apache.http.client.methods.CloseableHttpResponse execute(org.apache.http.client.methods.HttpUriRequest, org.apache.http.protocol.HttpContext)>
+<android.os.image.DynamicSystemManager: boolean remove()>
+<android.os.UserManager: void addUserRestrictionsListener(android.os.IUserRestrictionsListener)>
+<android.app.WallpaperManager: boolean setLockWallpaperCallback(android.app.IWallpaperManagerCallback)>
+<android.app.role.RoleManager: boolean addRoleHolderFromController(java.lang.String,java.lang.String)>
+<android.app.role.RoleManager: boolean removeRoleHolderFromController(java.lang.String,java.lang.String)>
+<android.app.role.RoleManager: void setRoleNamesFromController(java.util.List)>
+<android.os.PowerManager: void suppressAmbientDisplay(java.lang.String,boolean)>
+<android.os.PowerManager: boolean setDynamicPowerSaveHint(boolean,int)>
+<android.os.PowerManager: void wakeUp(long)>
+<android.os.PowerManager: void userActivity(long,int,int)>
+<android.os.PowerManager: void userActivity(long,boolean)>
+<android.os.PowerManager: void wakeUp(long,int,java.lang.String)>
+<android.os.PowerManager: void reboot(java.lang.String)>
+<android.os.PowerManager: void wakeUp(long,java.lang.String)>
+<android.os.PowerManager: boolean setAdaptivePowerSaveEnabled(boolean)>
+<android.os.PowerManager: boolean setPowerSaveModeEnabled(boolean)>
+<android.os.PowerManager: boolean forceSuspend()>
+<android.os.PowerManager: void dream(long)>
+<android.os.PowerManager: void setDozeAfterScreenOff(boolean)>
+<android.os.PowerManager: void goToSleep(long,int,int)>
+<android.os.PowerManager: void rebootSafeMode()>
+<android.os.PowerManager: void boostScreenBrightness(long)>
+<android.os.PowerManager: void shutdown(boolean,java.lang.String,boolean)>
+<android.os.PowerManager: void nap(long)>
+<android.os.PowerManager: boolean setAdaptivePowerSavePolicy(android.os.BatterySaverPolicyConfig)>
+<android.os.PowerManager: void goToSleep(long)>
+<android.hardware.ConsumerIrManager: void transmit(int,int[])>
+<android.app.ActivityManager: void setProcessStateSummary(byte[])>
+<android.app.ActivityManager: void setWatchHeapLimit(long)>
+<android.app.ActivityManager: void registerHomeVisibilityObserver(android.app.HomeVisibilityObserver)>
+<android.app.ActivityManager: void noteWakeupAlarm(android.app.PendingIntent,android.os.WorkSource,int,java.lang.String,java.lang.String)>
+<android.app.ActivityManager: void setDeviceLocales(android.os.LocaleList)>
+<android.app.ActivityManager: void setPersistentVrThread(int)>
+<android.app.ActivityManager: void clearWatchHeapLimit()>
+<android.app.ActivityManager: void broadcastStickyIntent(android.content.Intent,int,int)>
+<android.app.ActivityManager: void noteAlarmFinish(android.app.PendingIntent,android.os.WorkSource,int,java.lang.String)>
+<android.app.ActivityManager: void scheduleApplicationInfoChanged(java.util.List,int)>
+<android.app.ActivityManager: void killProcessesWhenImperceptible(int[],java.lang.String)>
+<android.app.ActivityManager: void broadcastStickyIntent(android.content.Intent,int)>
+<android.app.ActivityManager: void clearGrantedUriPermissions(java.lang.String)>
+<android.app.ActivityManager: void addOnUidImportanceListener(android.app.ActivityManager$OnUidImportanceListener,int)>
+<android.app.ActivityManager: void noteAlarmStart(android.app.PendingIntent,android.os.WorkSource,int,java.lang.String)>
+<android.app.ActivityManager: void killUid(int,java.lang.String)>
+<android.net.NetworkPolicyManager: void setNetworkPolicies(android.net.NetworkPolicy[])>
+<android.net.NetworkPolicyManager: void setUidPolicy(int,int)>
+<android.net.NetworkPolicyManager: void setRestrictBackground(boolean)>
+<android.app.DreamManager: void stopDream()>
+<android.app.DreamManager: void startDream(android.content.ComponentName)>
+<android.hardware.display.DisplayManager: void startWifiDisplayScan()>
+<android.hardware.display.DisplayManager: void resumeWifiDisplay()>
+<android.hardware.display.DisplayManager: void setSaturationLevel(float)>
+<android.hardware.display.DisplayManager: void pauseWifiDisplay()>
+<android.hardware.display.DisplayManager: void renameWifiDisplay(java.lang.String,java.lang.String)>
+<android.hardware.display.DisplayManager: void setTemporaryAutoBrightnessAdjustment(float)>
+<android.hardware.display.DisplayManager: void connectWifiDisplay(java.lang.String)>
+<android.hardware.display.DisplayManager: void forgetWifiDisplay(java.lang.String)>
+<android.hardware.display.DisplayManager: void stopWifiDisplayScan()>
+<android.hardware.display.DisplayManager: void setTemporaryBrightness(float)>
+<android.app.KeyguardManager: void exitKeyguardSecurely(android.app.KeyguardManager$OnKeyguardExitResult)>
+<android.app.KeyguardManager: void requestDismissKeyguard(android.app.Activity,java.lang.CharSequence,android.app.KeyguardManager$KeyguardDismissCallback)>
+<android.app.KeyguardManager: void requestDismissKeyguard(android.app.Activity,android.app.KeyguardManager$KeyguardDismissCallback)>
+<android.app.KeyguardManager: boolean setLock(int,byte[],int)>
+<android.net.NetworkScoreManager: void disableScoring()>
+<android.net.NetworkScoreManager: boolean requestScores(java.util.Collection)>
+<android.net.NetworkScoreManager: void registerNetworkScoreCallback(int,int,java.util.concurrent.Executor,android.net.NetworkScoreManager$NetworkScoreCallback)>
+<android.net.NetworkScoreManager: void registerNetworkScoreCache(int,android.net.INetworkScoreCache)>
+<android.net.NetworkScoreManager: boolean clearScores()>
+<android.net.NetworkScoreManager: boolean requestScores(android.net.NetworkKey[])>
+<android.net.NetworkScoreManager: void registerNetworkScoreCache(int,android.net.INetworkScoreCache,int)>
+<android.net.NetworkScoreManager: void unregisterNetworkScoreCache(int,android.net.INetworkScoreCache)>
+<android.media.MediaRouter: void addCallback(int,android.media.MediaRouter$Callback)>
+<android.media.MediaRouter: void selectRouteInt(int,android.media.MediaRouter$RouteInfo,boolean)>
+<android.media.MediaRouter: void removeCallback(android.media.MediaRouter$Callback)>
+<android.media.MediaRouter: void removeRouteInt(android.media.MediaRouter$RouteInfo)>
+<android.media.MediaRouter: void addRouteInt(android.media.MediaRouter$RouteInfo)>
+<android.media.MediaRouter: void addUserRoute(android.media.MediaRouter$UserRouteInfo)>
+<android.media.MediaRouter: void clearUserRoutes()>
+<android.media.MediaRouter: void selectRoute(int,android.media.MediaRouter$RouteInfo)>
+<android.media.MediaRouter: void rebindAsUser(int)>
+<android.media.MediaRouter: void addCallback(int,android.media.MediaRouter$Callback,int)>
+<android.media.MediaRouter: void removeUserRoute(android.media.MediaRouter$UserRouteInfo)>
+<android.media.MediaRouter: void setRouterGroupId(java.lang.String)>
+<android.media.MediaRouter: void <init>(android.content.Context)>
+<android.permission.PermissionManager: void revokeDefaultPermissionsFromDisabledTelephonyDataServices(java.lang.String[],android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.permission.PermissionManager: void grantDefaultPermissionsToEnabledCarrierApps(java.lang.String[],android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.permission.PermissionManager: void setRuntimePermissionsVersion(int)>
+<android.permission.PermissionManager: void grantDefaultPermissionsToEnabledTelephonyDataServices(java.lang.String[],android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.permission.PermissionManager: void grantDefaultPermissionsToLuiApp(java.lang.String,android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.permission.PermissionManager: void revokeDefaultPermissionsFromLuiApps(java.lang.String[],android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.permission.PermissionManager: void startOneTimePermissionSession(java.lang.String,long,int,int)>
+<android.permission.PermissionManager: void grantDefaultPermissionsToEnabledImsServices(java.lang.String[],android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.permission.PermissionManager: void stopOneTimePermissionSession(java.lang.String)>
+<android.hardware.SerialManager: android.hardware.SerialPort openSerialPort(java.lang.String,int)>
+<android.media.session.MediaSessionManager: void dispatchMediaKeyEvent(android.view.KeyEvent,boolean)>
+<android.media.session.MediaSessionManager: void dispatchMediaKeyEvent(android.view.KeyEvent)>
+<android.media.session.MediaSessionManager: void dispatchMediaKeyEventAsSystemService(android.view.KeyEvent)>
+<android.app.UriGrantsManager: void clearGrantedUriPermissions(java.lang.String)>
+<android.app.AppOpsManager: int checkAudioOp(int,int,int,java.lang.String)>
+<android.app.AppOpsManager: int noteOpNoThrow(int,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void finishOp(int,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void clearHistory()>
+<android.app.AppOpsManager: int noteProxyOp(int,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int checkOpNoThrow(int,int,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(int,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOp(java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(int,int,java.lang.String,boolean)>
+<android.app.AppOpsManager: int unsafeCheckOpRawNoThrow(int,int,java.lang.String)>
+<android.app.AppOpsManager: void setRestriction(int,int,int,java.lang.String[])>
+<android.app.AppOpsManager: void setUserRestrictionForUser(int,boolean,android.os.IBinder,java.lang.String[],int)>
+<android.app.AppOpsManager: void offsetHistory(long)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(java.lang.String,java.lang.String,int)>
+<android.app.AppOpsManager: int checkOpNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: void startWatchingStarted(int[],android.app.AppOpsManager$OnOpStartedListener)>
+<android.app.AppOpsManager: android.app.RuntimeAppOpAccessMessage collectRuntimeAppOpAccessMessage()>
+<android.app.AppOpsManager: int unsafeCheckOpRawNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int)>
+<android.app.AppOpsManager: int unsafeCheckOpRaw(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int,int,java.lang.String,boolean,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(int,int,java.lang.String)>
+<android.app.AppOpsManager: void setOnOpNotedCallback(java.util.concurrent.Executor,android.app.AppOpsManager$OnOpNotedCallback)>
+<android.app.AppOpsManager: int noteOp(int,int,java.lang.String)>
+<android.app.AppOpsManager: int checkOp(int,int,java.lang.String)>
+<android.app.AppOpsManager: void finishOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int checkOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: void finishOp(java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void addHistoricalOps(android.app.AppOpsManager$HistoricalOps)>
+<android.app.AppOpsManager: int noteOpNoThrow(int,int,java.lang.String)>
+<android.app.AppOpsManager: void setNotedAppOpsCollector(android.app.AppOpsManager$AppOpsCollector)>
+<android.app.AppOpsManager: void checkPackage(int,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int,int,java.lang.String)>
+<android.app.AppOpsManager: int unsafeCheckOpNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: void finishOp(int)>
+<android.app.AppOpsManager: int startOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: void setUserRestriction(int,boolean,android.os.IBinder)>
+<android.app.AppOpsManager: void resetHistoryParameters()>
+<android.app.AppOpsManager: void setUserRestriction(int,boolean,android.os.IBinder,java.lang.String[])>
+<android.app.AppOpsManager: int startOpNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(int)>
+<android.app.AppOpsManager: void setMode(java.lang.String,int,java.lang.String,int)>
+<android.app.AppOpsManager: void setHistoryParameters(int,long,int)>
+<android.app.AppOpsManager: int noteOpNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOp(java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(int,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void startWatchingActive(int[],android.app.AppOpsManager$OnOpActiveChangedListener)>
+<android.app.AppOpsManager: int startOp(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void setMode(int,int,java.lang.String,int)>
+<android.app.AppOpsManager: int noteOpNoThrow(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int unsafeCheckOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int checkAudioOpNoThrow(int,int,int,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int,int,java.lang.String,boolean)>
+<android.app.AppOpsManager: void startWatchingActive(java.lang.String[],java.util.concurrent.Executor,android.app.AppOpsManager$OnOpActiveChangedListener)>
+<android.app.AppOpsManager: void finishOp(int,int,java.lang.String)>
+<android.app.AppOpsManager: void startWatchingNoted(int[],android.app.AppOpsManager$OnOpNotedListener)>
+<android.app.AppOpsManager: int noteProxyOp(int,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(int,int,java.lang.String,boolean,java.lang.String,java.lang.String)>
+<android.app.SearchManager: void startSearch(java.lang.String,boolean,android.content.ComponentName,android.os.Bundle,boolean,android.graphics.Rect)>
+<android.app.SearchManager: void triggerSearch(java.lang.String,android.content.ComponentName,android.os.Bundle)>
+<android.app.SearchManager: void startSearch(java.lang.String,boolean,android.content.ComponentName,android.os.Bundle,boolean)>
+<android.app.usage.UsageStatsManager: void registerAppUsageObserver(int,java.lang.String[],long,java.util.concurrent.TimeUnit,android.app.PendingIntent)>
+<android.app.usage.UsageStatsManager: void registerAppUsageLimitObserver(int,java.lang.String[],java.time.Duration,java.time.Duration,android.app.PendingIntent)>
+<android.app.usage.UsageStatsManager: void unregisterUsageSessionObserver(int)>
+<android.app.usage.UsageStatsManager: void unregisterAppUsageLimitObserver(int)>
+<android.app.usage.UsageStatsManager: void unregisterAppUsageObserver(int)>
+<android.app.usage.UsageStatsManager: void registerUsageSessionObserver(int,java.lang.String[],java.time.Duration,java.time.Duration,android.app.PendingIntent,android.app.PendingIntent)>
+<android.app.usage.UsageStatsManager: void setAppStandbyBuckets(java.util.Map)>
+<android.app.usage.UsageStatsManager: void setAppStandbyBucket(java.lang.String,int)>
+<android.app.usage.UsageStatsManager: void onCarrierPrivilegedAppsChanged()>
+<android.app.AlarmManager: void setTimeZone(java.lang.String)>
+<android.app.AlarmManager: void setTime(long)>
+<android.app.StatusBarManager: void expandSettingsPanel(java.lang.String)>
+<android.app.StatusBarManager: void expandNotificationsPanel()>
+<android.app.StatusBarManager: void setDisabledForSetup(boolean)>
+<android.app.StatusBarManager: void expandSettingsPanel()>
+<android.app.StatusBarManager: void removeIcon(java.lang.String)>
+<android.app.StatusBarManager: void setDisabledForSimNetworkLock(boolean)>
+<android.app.StatusBarManager: void disable(int)>
+<android.app.StatusBarManager: void collapsePanels()>
+<android.app.StatusBarManager: void setIcon(java.lang.String,int,int,java.lang.String)>
+<android.app.StatusBarManager: void disable2(int)>
+<android.app.StatusBarManager: void setIconVisibility(java.lang.String,boolean)>
+<android.location.LocationManager: void requestLocationUpdates(java.lang.String,long,float,android.location.LocationListener,android.os.Looper)>
+<android.location.LocationManager: void requestLocationUpdates(java.lang.String,long,float,java.util.concurrent.Executor,android.location.LocationListener)>
+<android.location.LocationManager: void setExtraLocationControllerPackageEnabled(boolean)>
+<android.location.LocationManager: void requestLocationUpdates(java.lang.String,long,float,android.location.LocationListener)>
+<android.location.LocationManager: boolean sendExtraCommand(java.lang.String,java.lang.String,android.os.Bundle)>
+<android.location.LocationManager: void setLocationControllerExtraPackageEnabled(boolean)>
+<android.location.LocationManager: void requestLocationUpdates(long,float,android.location.Criteria,android.app.PendingIntent)>
+<android.location.LocationManager: void addTestProvider(java.lang.String,boolean,boolean,boolean,boolean,boolean,boolean,boolean,int,int)>
+<android.location.LocationManager: void requestSingleUpdate(java.lang.String,android.location.LocationListener,android.os.Looper)>
+<android.location.LocationManager: void clearTestProviderEnabled(java.lang.String)>
+<android.location.LocationManager: void requestSingleUpdate(android.location.Criteria,android.location.LocationListener,android.os.Looper)>
+<android.location.LocationManager: void injectGnssMeasurementCorrections(android.location.GnssMeasurementCorrections)>
+<android.location.LocationManager: boolean unregisterGnssBatchedLocationCallback(android.location.BatchedLocationCallback)>
+<android.location.LocationManager: void requestLocationUpdates(java.lang.String,long,float,android.app.PendingIntent)>
+<android.location.LocationManager: void setExtraLocationControllerPackage(java.lang.String)>
+<android.location.LocationManager: void removeTestProvider(java.lang.String)>
+<android.location.LocationManager: void requestLocationUpdates(long,float,android.location.Criteria,android.location.LocationListener,android.os.Looper)>
+<android.location.LocationManager: void requestSingleUpdate(android.location.Criteria,android.app.PendingIntent)>
+<android.location.LocationManager: void requestLocationUpdates(android.location.LocationRequest,android.app.PendingIntent)>
+<android.location.LocationManager: boolean registerGnssBatchedLocationCallback(long,boolean,android.location.BatchedLocationCallback,android.os.Handler)>
+<android.location.LocationManager: void requestLocationUpdates(android.location.LocationRequest,android.location.LocationListener,android.os.Looper)>
+<android.location.LocationManager: void requestLocationUpdates(android.location.LocationRequest,java.util.concurrent.Executor,android.location.LocationListener)>
+<android.location.LocationManager: void setTestProviderEnabled(java.lang.String,boolean)>
+<android.location.LocationManager: void requestLocationUpdates(long,float,android.location.Criteria,java.util.concurrent.Executor,android.location.LocationListener)>
+<android.location.LocationManager: void requestSingleUpdate(java.lang.String,android.app.PendingIntent)>
+<android.location.LocationManager: void setLocationControllerExtraPackage(java.lang.String)>
+<android.location.LocationManager: void setTestProviderLocation(java.lang.String,android.location.Location)>
+<android.location.LocationManager: void flushGnssBatch()>
+<android.os.RecoverySystem: void prepareForUnattendedUpdate(android.content.Context,java.lang.String,android.content.IntentSender)>
+<android.os.RecoverySystem: void rebootWipeCache(android.content.Context,java.lang.String)>
+<android.os.RecoverySystem: void rebootWipeUserData(android.content.Context,boolean,java.lang.String,boolean,boolean)>
+<android.os.RecoverySystem: void rebootWipeCache(android.content.Context)>
+<android.os.RecoverySystem: void installPackage(android.content.Context,java.io.File,boolean)>
+<android.os.RecoverySystem: void processPackage(android.content.Context,java.io.File,android.os.RecoverySystem$ProgressListener)>
+<android.os.RecoverySystem: void rebootWipeUserData(android.content.Context,java.lang.String)>
+<android.os.RecoverySystem: void installPackage(android.content.Context,java.io.File)>
+<android.os.RecoverySystem: void processPackage(android.content.Context,java.io.File,android.os.RecoverySystem$ProgressListener,android.os.Handler)>
+<android.os.RecoverySystem: void clearPrepareForUnattendedUpdate(android.content.Context)>
+<android.os.RecoverySystem: void cancelScheduledUpdate(android.content.Context)>
+<android.os.RecoverySystem: void rebootWipeUserData(android.content.Context,boolean,java.lang.String,boolean)>
+<android.os.RecoverySystem: void scheduleUpdateOnBoot(android.content.Context,java.io.File)>
+<android.os.RecoverySystem: void rebootWipeUserData(android.content.Context,boolean)>
+<android.os.RecoverySystem: void rebootWipeUserData(android.content.Context)>
+<android.os.RecoverySystem: void rebootWipeAb(android.content.Context,java.io.File,java.lang.String)>
+<android.os.RecoverySystem: void rebootPromptAndWipeUserData(android.content.Context,java.lang.String)>
+<android.hardware.fingerprint.FingerprintManager: void rename(int,int,java.lang.String)>
+<android.hardware.biometrics.BiometricManager: void resetLockout(byte[])>
+<android.hardware.biometrics.BiometricManager: void setActiveUser(int)>
+<android.hardware.biometrics.BiometricManager: void registerEnabledOnKeyguardCallback(android.hardware.biometrics.IBiometricEnabledOnKeyguardCallback)>
+<android.content.rollback.RollbackManager: void blockRollbackManager(long)>
+<android.content.rollback.RollbackManager: void reloadPersistedData()>
+<android.app.admin.DevicePolicyManager: void notifyPendingSystemUpdate(long,boolean)>
+<android.app.admin.DevicePolicyManager: void notifyPendingSystemUpdate(long)>
+<android.hardware.SensorPrivacyManager: void setSensorPrivacy(boolean)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats querySummary(android.net.NetworkTemplate,long,long)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats queryDetailsForUidTag(int,java.lang.String,long,long,int,int)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats queryDetailsForUidTagState(android.net.NetworkTemplate,long,long,int,int,int)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats queryDetailsForUidTagState(int,java.lang.String,long,long,int,int,int)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats queryDetails(int,java.lang.String,long,long)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats queryDetailsForUid(int,java.lang.String,long,long,int)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats$Bucket querySummaryForUser(int,java.lang.String,long,long)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats queryDetailsForUid(android.net.NetworkTemplate,long,long,int)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats$Bucket querySummaryForDevice(int,java.lang.String,long,long)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats$Bucket querySummaryForDevice(android.net.NetworkTemplate,long,long)>
+<android.app.usage.NetworkStatsManager: android.app.usage.NetworkStats querySummary(int,java.lang.String,long,long)>
+<android.hardware.lights.LightsManager: android.hardware.lights.LightsManager$LightsSession openSession()>
+<android.os.BatteryManager: boolean setChargingStateUpdateDelayMillis(int)>
+<android.view.inputmethod.InputMethodManager: void reportPerceptible(android.os.IBinder,boolean)>
+<android.view.inputmethod.InputMethodManager: boolean hideSoftInputFromWindow(android.os.IBinder,int,android.os.ResultReceiver)>
+<android.view.inputmethod.InputMethodManager: void showInputMethodPickerFromSystem(boolean,int)>
+<android.view.inputmethod.InputMethodManager: void lambda$startInputInner$1$InputMethodManager(int)>
+<android.view.inputmethod.InputMethodManager: boolean requestImeShow(android.os.IBinder)>
+<android.view.inputmethod.InputMethodManager: void showSoftInputUnchecked(int,android.os.ResultReceiver)>
+<android.view.inputmethod.InputMethodManager: void restartInput(android.view.View)>
+<android.view.inputmethod.InputMethodManager: boolean showSoftInput(android.view.View,int,android.os.ResultReceiver)>
+<android.net.NetworkWatchlistManager: void reloadWatchlist()>
+<android.net.ConnectivityManager: boolean requestBandwidthUpdate(android.net.Network)>
+<android.net.ConnectivityManager: void startCaptivePortalApp(android.net.Network,android.os.Bundle)>
+<android.net.ConnectivityManager: android.net.ConnectivityManager$PacketKeepalive startNattKeepalive(android.net.Network,int,android.net.ConnectivityManager$PacketKeepaliveCallback,java.net.InetAddress,int,java.net.InetAddress)>
+<android.net.ConnectivityManager: void enforceChangePermission(android.content.Context)>
+<android.app.UiModeManager: void setNightMode(int)>
+<android.app.UiModeManager: void setCustomNightModeStart(java.time.LocalTime)>
+<android.app.UiModeManager: void enableCarMode(int)>
+<android.app.UiModeManager: void setCustomNightModeEnd(java.time.LocalTime)>
+<android.app.UiModeManager: void enableCarMode(int,int)>
+<android.app.UiModeManager: void disableCarMode(int)>
+<android.os.health.SystemHealthManager: android.os.health.HealthStats takeMyUidSnapshot()>
+<android.os.health.SystemHealthManager: android.os.health.HealthStats takeUidSnapshot(int)>
+<android.os.health.SystemHealthManager: android.os.health.HealthStats[] takeUidSnapshots(int[])>
+<android.os.BugreportManager: void requestBugreport(android.os.BugreportParams,java.lang.CharSequence,java.lang.CharSequence)>
+<android.hardware.usb.UsbManager: void setCurrentFunctions(long)>
+<android.hardware.usb.UsbManager: void resetUsbGadget()>
+<android.hardware.usb.UsbManager: void setScreenUnlockedFunctions(long)>
+<android.hardware.usb.UsbManager: void grantPermission(android.hardware.usb.UsbDevice)>
+<android.hardware.usb.UsbManager: void setUsbDeviceConnectionHandler(android.content.ComponentName)>
+<android.hardware.usb.UsbManager: void setCurrentFunction(java.lang.String,boolean)>
+<android.hardware.usb.UsbManager: void grantPermission(android.hardware.usb.UsbDevice,java.lang.String)>
+<android.hardware.usb.UsbManager: void grantPermission(android.hardware.usb.UsbDevice,int)>
+<android.hardware.input.InputManager: void registerOnTabletModeChangedListener(android.hardware.input.InputManager$OnTabletModeChangedListener,android.os.Handler)>
+<android.hardware.input.InputManager: void tryPointerSpeed(int)>
+<android.hardware.input.InputManager: android.view.InputMonitor monitorGestureInput(java.lang.String,int)>
+<android.hardware.input.InputManager: void disableInputDevice(int)>
+<android.hardware.input.InputManager: void setTouchCalibration(java.lang.String,int,android.hardware.input.TouchCalibration)>
+<android.hardware.input.InputManager: void removeKeyboardLayoutForInputDevice(android.hardware.input.InputDeviceIdentifier,java.lang.String)>
+<android.hardware.input.InputManager: void addKeyboardLayoutForInputDevice(android.hardware.input.InputDeviceIdentifier,java.lang.String)>
+<android.hardware.input.InputManager: void setCurrentKeyboardLayoutForInputDevice(android.hardware.input.InputDeviceIdentifier,java.lang.String)>
+<android.hardware.input.InputManager: void enableInputDevice(int)>
+<android.hardware.input.InputManager: void addPortAssociation(java.lang.String,int)>
+<android.hardware.input.InputManager: void removePortAssociation(java.lang.String)>
+<android.companion.CompanionDeviceManager: void associate(android.companion.AssociationRequest,android.companion.CompanionDeviceManager$Callback,android.os.Handler)>
+<android.media.midi.MidiManager: android.media.midi.MidiDeviceServer createDeviceServer(android.media.midi.MidiReceiver[],int,java.lang.String[],java.lang.String[],android.os.Bundle,int,android.media.midi.MidiDeviceServer$Callback)>
+<android.app.trust.TrustManager: void reportEnabledTrustAgentsChanged(int)>
+<android.app.trust.TrustManager: void clearAllBiometricRecognized(android.hardware.biometrics.BiometricSourceType)>
+<android.app.trust.TrustManager: void setDeviceLockedForUser(int,boolean)>
+<android.app.trust.TrustManager: void reportUnlockLockout(int,int)>
+<android.app.trust.TrustManager: void unregisterTrustListener(android.app.trust.TrustManager$TrustListener)>
+<android.app.trust.TrustManager: void unlockedByBiometricForUser(int,android.hardware.biometrics.BiometricSourceType)>
+<android.app.trust.TrustManager: void reportKeyguardShowingChanged()>
+<android.app.trust.TrustManager: void reportUnlockAttempt(boolean,int)>
+<android.app.trust.TrustManager: void registerTrustListener(android.app.trust.TrustManager$TrustListener)>
+<android.view.ViewManager: void addView(android.view.View,android.view.ViewGroup$LayoutParams)>
+<android.view.ViewManager: void removeView(android.view.View)>
+<android.view.WindowManager: void removeViewImmediate(android.view.View)>
+<android.os.IncidentManager: void cancelAuthorization(android.os.IncidentManager$AuthListener)>
+<android.os.IncidentManager: void approveReport(android.net.Uri)>
+<android.os.IncidentManager: void requestAuthorization(int,java.lang.String,int,android.os.IncidentManager$AuthListener)>
+<android.os.IncidentManager: void requestAuthorization(int,java.lang.String,int,java.util.concurrent.Executor,android.os.IncidentManager$AuthListener)>
+<android.os.IncidentManager: void denyReport(android.net.Uri)>
+<android.view.accessibility.AccessibilityManager: void removeAccessibilityInteractionConnection(android.view.IWindow)>
+<android.view.accessibility.AccessibilityManager: void setPictureInPictureActionReplacingConnection(android.view.accessibility.IAccessibilityInteractionConnection)>
+<android.view.accessibility.AccessibilityManager: void sendAccessibilityEvent(android.view.accessibility.AccessibilityEvent)>
+<android.view.accessibility.AccessibilityManager: void setWindowMagnificationConnection(android.view.accessibility.IWindowMagnificationConnection)>
+<android.view.accessibility.AccessibilityManager: void disassociateEmbeddedHierarchy(android.os.IBinder)>
+<android.view.accessibility.AccessibilityManager: void registerSystemAction(android.app.RemoteAction,int)>
+<android.view.accessibility.AccessibilityManager: void notifyAccessibilityButtonClicked(int,java.lang.String)>
+<android.view.accessibility.AccessibilityManager: void performAccessibilityShortcut(java.lang.String)>
+<android.view.accessibility.AccessibilityManager: int addAccessibilityInteractionConnection(android.view.IWindow,android.os.IBinder,java.lang.String,android.view.accessibility.IAccessibilityInteractionConnection)>
+<android.view.accessibility.AccessibilityManager: void notifyAccessibilityButtonVisibilityChanged(boolean)>
+<android.view.accessibility.AccessibilityManager: void performAccessibilityShortcut()>
+<android.view.accessibility.AccessibilityManager: boolean sendFingerprintGesture(int)>
+<android.view.accessibility.AccessibilityManager: void associateEmbeddedHierarchy(android.os.IBinder,android.os.IBinder)>
+<android.view.accessibility.AccessibilityManager: void <init>(android.content.Context,android.view.accessibility.IAccessibilityManager,int)>
+<android.view.accessibility.AccessibilityManager: void notifyAccessibilityButtonClicked(int)>
+<android.view.accessibility.AccessibilityManager: void unregisterSystemAction(int)>
+<android.view.accessibility.AccessibilityManager: void <init>(android.os.Handler,android.view.accessibility.IAccessibilityManager,int)>
+<android.view.accessibility.AccessibilityManager: void interrupt()>
+<android.app.NotificationManager: void setNotificationListenerAccessGrantedForUser(android.content.ComponentName,int,boolean)>
+<android.app.NotificationManager: void setNotificationListenerAccessGranted(android.content.ComponentName,boolean)>
+<android.app.NotificationManager: void setZenMode(int,android.net.Uri,java.lang.String)>
+<android.app.NotificationManager: void setNotificationPolicyAccessGranted(java.lang.String,boolean)>
+<android.media.projection.MediaProjectionManager: void stopActiveProjection()>
+<android.media.projection.MediaProjectionManager: void addCallback(android.media.projection.MediaProjectionManager$Callback,android.os.Handler)>
+<android.media.projection.MediaProjectionManager: void removeCallback(android.media.projection.MediaProjectionManager$Callback)>
+<android.hardware.display.ColorDisplayManager: boolean setDisplayWhiteBalanceEnabled(boolean)>
+<android.hardware.display.ColorDisplayManager: boolean setNightDisplayActivated(boolean)>
+<android.hardware.display.ColorDisplayManager: boolean setNightDisplayCustomStartTime(java.time.LocalTime)>
+<android.hardware.display.ColorDisplayManager: boolean setNightDisplayCustomEndTime(java.time.LocalTime)>
+<android.hardware.display.ColorDisplayManager: boolean setNightDisplayAutoMode(int)>
+<android.hardware.display.ColorDisplayManager: boolean setSaturationLevel(int)>
+<android.hardware.display.ColorDisplayManager: void setColorMode(int)>
+<android.hardware.display.ColorDisplayManager: boolean setNightDisplayColorTemperature(int)>
+<android.media.AudioManager: void setRingerModeInternal(int)>
+<android.media.AudioManager: void setMicrophoneMuteFromSwitch(boolean)>
+<android.media.AudioManager: void startBluetoothScoVirtualCall()>
+<android.media.AudioManager: void addOnPreferredDeviceForStrategyChangedListener(java.util.concurrent.Executor,android.media.AudioManager$OnPreferredDeviceForStrategyChangedListener)>
+<android.media.AudioManager: void dispatchMediaKeyEvent(android.view.KeyEvent)>
+<android.media.AudioManager: void startBluetoothSco()>
+<android.media.AudioManager: void stopBluetoothSco()>
+<android.media.AudioManager: void registerAudioPlaybackCallback(android.media.AudioManager$AudioPlaybackCallback,android.os.Handler)>
+<android.media.AudioManager: void registerAudioRecordingCallback(android.media.AudioManager$AudioRecordingCallback,android.os.Handler)>
+<android.media.AudioManager: void forceVolumeControlStream(int)>
+<android.media.AudioManager: void removeOnPreferredDeviceForStrategyChangedListener(android.media.AudioManager$OnPreferredDeviceForStrategyChangedListener)>
+<android.media.AudioManager: void notifyVolumeControllerVisible(android.media.IVolumeController,boolean)>
+<android.media.AudioManager: void setRttEnabled(boolean)>
+<android.media.AudioManager: void setAudioServerStateCallback(java.util.concurrent.Executor,android.media.AudioManager$AudioServerStateCallback)>
+<android.media.AudioManager: void disableSafeMediaVolume()>
+<android.media.AudioManager: boolean setPreferredDeviceForStrategy(android.media.audiopolicy.AudioProductStrategy,android.media.AudioDeviceAttributes)>
+<android.media.AudioManager: void setSupportedSystemUsages(int[])>
+<android.media.AudioManager: void setVolumeController(android.media.IVolumeController)>
+<android.media.AudioManager: int abandonAudioFocus(android.media.AudioManager$OnAudioFocusChangeListener,android.media.AudioAttributes)>
+<android.media.AudioManager: void clearAudioServerStateCallback()>
+<android.media.AudioManager: boolean removePreferredDeviceForStrategy(android.media.audiopolicy.AudioProductStrategy)>
+<android.media.AudioManager: void abandonAudioFocusForCall()>
+<android.media.AudioManager: int abandonAudioFocus(android.media.AudioManager$OnAudioFocusChangeListener)>
+<android.media.AudioManager: void setVolumePolicy(android.media.VolumePolicy)>
+<android.media.AudioManager: void setBluetoothScoOn(boolean)>
+<android.media.AudioManager: void unregisterAudioPolicy(android.media.audiopolicy.AudioPolicy)>
+<android.media.AudioManager: int abandonAudioFocusRequest(android.media.AudioFocusRequest)>
+<android.media.AudioManager: void setSpeakerphoneOn(boolean)>
+<android.media.AudioManager: void setWiredDeviceConnectionState(int,int,java.lang.String,java.lang.String)>
+<android.os.Vibrator: void cancel()>
+<android.os.Vibrator: void vibrate(int,java.lang.String,android.os.VibrationEffect,java.lang.String,android.media.AudioAttributes)>
+<android.os.storage.StorageManager: boolean checkPermissionAndCheckOp(android.content.Context,boolean,int,int,java.lang.String,java.lang.String,int)>
+<android.os.storage.StorageManager: void forgetVolume(java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionReadAudio(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: void prepareUserStorage(java.lang.String,int,int,int)>
+<android.os.storage.StorageManager: boolean checkPermissionWriteAudio(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: void lockUserKey(int)>
+<android.os.storage.StorageManager: void setVolumeNickname(java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: void allocateBytes(java.util.UUID,long)>
+<android.os.storage.StorageManager: void setVolumeInited(java.lang.String,boolean)>
+<android.os.storage.StorageManager: void unlockUserKey(int,int,byte[],byte[])>
+<android.os.storage.StorageManager: void allocateBytes(java.io.FileDescriptor,long)>
+<android.os.storage.StorageManager: void setVolumeSnoozed(java.lang.String,boolean)>
+<android.os.storage.StorageManager: boolean checkPermissionWriteVideo(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionReadVideo(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionAndAppOp(android.content.Context,boolean,int,int,java.lang.String,java.lang.String,java.lang.String,int)>
+<android.os.storage.StorageManager: boolean checkPermissionReadImages(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: void allocateBytes(java.io.FileDescriptor,long,int)>
+<android.os.storage.StorageManager: void destroyUserStorage(java.lang.String,int,int)>
+<android.os.storage.StorageManager: boolean checkPermissionWriteImages(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: void allocateBytes(java.util.UUID,long,int)>
+<android.app.ActivityTaskManager: void clearLaunchParamsForPackages(java.util.List)>
+<android.app.ActivityTaskManager: void startSystemLockTaskMode(int)>
+<android.app.ActivityTaskManager: void requestPictureInPictureMode(android.os.IBinder)>
+<android.app.ActivityTaskManager: void setDisplayToSingleTaskInstance(int)>
+<android.app.ActivityTaskManager: void stopSystemLockTaskMode()>
+<android.app.ActivityTaskManager: void resizeTask(int,android.graphics.Rect)>
+<android.os.BatteryStatsManager: void reportWifiOff()>
+<android.os.BatteryStatsManager: void reportWifiOn()>
+<android.os.BatteryStatsManager: void reportWifiSupplicantStateChanged(int,boolean)>
+<android.os.BatteryStatsManager: void reportWifiScanStoppedFromSource(android.os.WorkSource)>
+<android.os.BatteryStatsManager: void reportWifiBatchedScanStartedFromSource(android.os.WorkSource,int)>
+<android.os.BatteryStatsManager: void reportWifiState(int,java.lang.String)>
+<android.os.BatteryStatsManager: void reportWifiBatchedScanStoppedFromSource(android.os.WorkSource)>
+<android.os.BatteryStatsManager: void reportFullWifiLockReleasedFromSource(android.os.WorkSource)>
+<android.os.BatteryStatsManager: void reportWifiMulticastEnabled(android.os.WorkSource)>
+<android.os.BatteryStatsManager: void reportFullWifiLockAcquiredFromSource(android.os.WorkSource)>
+<android.os.BatteryStatsManager: void reportWifiRssiChanged(int)>
+<android.os.BatteryStatsManager: void reportWifiMulticastDisabled(android.os.WorkSource)>
+<android.os.BatteryStatsManager: void reportWifiScanStartedFromSource(android.os.WorkSource)>
+<android.media.soundtrigger.SoundTriggerManager: void deleteModel(java.util.UUID)>
+<android.media.soundtrigger.SoundTriggerManager: void updateModel(android.media.soundtrigger.SoundTriggerManager$Model)>
+<android.media.soundtrigger.SoundTriggerManager: android.hardware.soundtrigger.SoundTrigger$ModelParamRange queryParameter(java.util.UUID,int)>
+<android.media.soundtrigger.SoundTriggerManager: int loadSoundModel(android.hardware.soundtrigger.SoundTrigger$SoundModel)>
+<android.media.soundtrigger.SoundTriggerManager: int setParameter(java.util.UUID,int,int)>
+
+<android.os.image.DynamicSystemManager: boolean abort()>
+<android.os.image.DynamicSystemManager: boolean finishInstallation()>
+<android.os.image.DynamicSystemManager: boolean startInstallation(java.lang.String)>
+<android.os.image.DynamicSystemManager: android.os.image.DynamicSystemManager$Session createPartition(java.lang.String,long,boolean)>
+<android.os.image.DynamicSystemManager: boolean setEnable(boolean,boolean)>
+<android.os.UserManager: android.content.pm.UserInfo createProfileForUser(java.lang.String,java.lang.String,int,int,java.lang.String[])>
+<android.os.UserManager: boolean requestQuietModeEnabled(boolean,android.os.UserHandle)>
+<android.os.UserManager: void setUserIcon(int,android.graphics.Bitmap)>
+<android.os.UserManager: boolean removeUser(android.os.UserHandle)>
+<android.os.UserManager: android.os.UserHandle createProfile(java.lang.String,java.lang.String,java.util.Set)>
+<android.os.UserManager: android.content.pm.UserInfo createGuest(android.content.Context,java.lang.String)>
+<android.os.UserManager: android.content.pm.UserInfo createRestrictedProfile(java.lang.String)>
+<android.os.UserManager: android.content.pm.UserInfo createProfileForUserEvenWhenDisallowed(java.lang.String,java.lang.String,int,int,java.lang.String[])>
+<android.os.UserManager: void setUserRestriction(java.lang.String,boolean)>
+<android.os.UserManager: android.content.pm.UserInfo createProfileForUser(java.lang.String,int,int)>
+<android.os.UserManager: boolean markGuestForDeletion(int)>
+<android.os.UserManager: android.content.pm.UserInfo preCreateUser(java.lang.String)>
+<android.os.UserManager: boolean requestQuietModeEnabled(boolean,android.os.UserHandle,android.content.IntentSender,int)>
+<android.os.UserManager: boolean removeUser(int)>
+<android.os.UserManager: boolean requestQuietModeEnabled(boolean,android.os.UserHandle,int)>
+<android.os.UserManager: boolean requestQuietModeEnabled(boolean,android.os.UserHandle,android.content.IntentSender)>
+<android.os.UserManager: android.content.pm.UserInfo createUser(java.lang.String,java.lang.String,int)>
+<android.os.UserManager: void setUserIcon(android.graphics.Bitmap)>
+<android.os.UserManager: android.content.pm.UserInfo createUser(java.lang.String,int)>
+<android.os.UserManager: void setApplicationRestrictions(java.lang.String,android.os.Bundle,android.os.UserHandle)>
+<android.os.UserManager: void setUserRestriction(java.lang.String,boolean,android.os.UserHandle)>
+<android.os.UserManager: android.content.pm.UserInfo createProfileForUser(java.lang.String,java.lang.String,int,int)>
+<android.app.WallpaperManager: boolean setWallpaperComponent(android.content.ComponentName)>
+<android.app.WallpaperManager: void addOnColorsChangedListener(android.app.WallpaperManager$OnColorsChangedListener,android.os.Handler,int)>
+<android.app.WallpaperManager: void clearWallpaper(int,int)>
+<android.app.WallpaperManager: void clearWallpaper()>
+<android.app.WallpaperManager: void setDisplayPadding(android.graphics.Rect)>
+<android.app.WallpaperManager: void removeOnColorsChangedListener(android.app.WallpaperManager$OnColorsChangedListener,int)>
+<android.app.WallpaperManager: void setStream(java.io.InputStream)>
+<android.app.WallpaperManager: void setResource(int)>
+<android.app.WallpaperManager: void clear(int)>
+<android.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)>
+<android.app.WallpaperManager: int setStream(java.io.InputStream,android.graphics.Rect,boolean)>
+<android.app.WallpaperManager: void addOnColorsChangedListener(android.app.WallpaperManager$OnColorsChangedListener,android.os.Handler)>
+<android.app.WallpaperManager: void clear()>
+<android.app.WallpaperManager: int setResource(int,int)>
+<android.app.WallpaperManager: int setBitmap(android.graphics.Bitmap,android.graphics.Rect,boolean)>
+<android.app.WallpaperManager: int setBitmap(android.graphics.Bitmap,android.graphics.Rect,boolean,int,int)>
+<android.app.WallpaperManager: void removeOnColorsChangedListener(android.app.WallpaperManager$OnColorsChangedListener)>
+<android.app.WallpaperManager: int setBitmap(android.graphics.Bitmap,android.graphics.Rect,boolean,int)>
+<android.app.WallpaperManager: boolean setWallpaperComponent(android.content.ComponentName,int)>
+<android.app.WallpaperManager: void suggestDesiredDimensions(int,int)>
+<android.app.WallpaperManager: int setStream(java.io.InputStream,android.graphics.Rect,boolean,int)>
+<android.app.role.RoleManager: void addRoleHolderAsUser(java.lang.String,java.lang.String,int,android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.app.role.RoleManager: void addOnRoleHoldersChangedListenerAsUser(java.util.concurrent.Executor,android.app.role.OnRoleHoldersChangedListener,android.os.UserHandle)>
+<android.app.role.RoleManager: void removeOnRoleHoldersChangedListenerAsUser(android.app.role.OnRoleHoldersChangedListener,android.os.UserHandle)>
+<android.app.role.RoleManager: void clearRoleHoldersAsUser(java.lang.String,int,android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.app.role.RoleManager: void removeRoleHolderAsUser(java.lang.String,java.lang.String,int,android.os.UserHandle,java.util.concurrent.Executor,java.util.function.Consumer)>
+<android.os.SystemUpdateManager: android.os.Bundle retrieveSystemUpdateInfo()>
+<android.os.SystemUpdateManager: void updateSystemUpdateInfo(android.os.PersistableBundle)>
+<android.app.ActivityManager: int checkUidPermission(java.lang.String,int)>
+<android.app.ActivityManager: boolean updateMccMncConfiguration(java.lang.String,java.lang.String)>
+<android.app.ActivityManager: boolean switchUser(int)>
+<android.app.ActivityManager: void setDeviceLocales(android.os.LocaleList)>
+<android.app.ActivityManager: void appNotResponding(java.lang.String)>
+<android.app.ActivityManager: boolean clearApplicationUserData()>
+<android.app.ActivityManager: boolean clearApplicationUserData(java.lang.String,android.content.pm.IPackageDataObserver)>
+<android.app.ActivityManager: void resumeAppSwitches()>
+<android.app.ActivityManager: void killBackgroundProcesses(java.lang.String)>
+<android.app.ActivityManager: int handleIncomingUser(int,int,int,boolean,boolean,java.lang.String,java.lang.String)>
+<android.app.ActivityManager: void setPackageScreenCompatMode(java.lang.String,int)>
+<android.app.ActivityManager: int checkComponentPermission(java.lang.String,int,int,boolean)>
+<android.app.ActivityManager: void setPackageAskScreenCompat(java.lang.String,boolean)>
+<android.app.ActivityManager: void logoutCurrentUser()>
+<android.app.ActivityManager: void forceStopPackage(java.lang.String)>
+<android.app.ActivityManager: boolean setProcessMemoryTrimLevel(java.lang.String,int,int)>
+<android.app.ActivityManager: boolean switchUser(android.os.UserHandle)>
+<android.app.ActivityManager: void forceStopPackageAsUser(java.lang.String,int)>
+<android.app.ActivityManager: void moveTaskToFront(int,int)>
+<android.app.ActivityManager: void moveTaskToFront(int,int,android.os.Bundle)>
+<android.app.ActivityManager: void setFrontActivityScreenCompatMode(int)>
+<android.app.ActivityManager: void restartPackage(java.lang.String)>
+<android.net.NetworkPolicyManager: void factoryReset(java.lang.String)>
+<android.net.NetworkPolicyManager: void setSubscriptionPlans(int,android.telephony.SubscriptionPlan[],java.lang.String)>
+<android.net.NetworkPolicyManager: void setSubscriptionOverride(int,int,int,long,java.lang.String)>
+<android.net.NetworkPolicyManager: void addUidPolicy(int,int)>
+<android.net.NetworkPolicyManager: void removeUidPolicy(int,int)>
+<android.app.DreamManager: void setActiveDream(android.content.ComponentName)>
+<android.hardware.display.DisplayManager: android.hardware.display.VirtualDisplay createVirtualDisplay(java.lang.String,int,int,int,android.view.Surface,int)>
+<android.hardware.display.DisplayManager: void setBrightnessConfiguration(android.hardware.display.BrightnessConfiguration)>
+<android.hardware.display.DisplayManager: void setBrightnessConfigurationForUser(android.hardware.display.BrightnessConfiguration,int,java.lang.String)>
+<android.hardware.display.DisplayManager: android.hardware.display.VirtualDisplay createVirtualDisplay(java.lang.String,int,int,int,android.view.Surface,int,android.hardware.display.VirtualDisplay$Callback,android.os.Handler)>
+<android.hardware.display.DisplayManager: android.hardware.display.VirtualDisplay createVirtualDisplay(android.media.projection.MediaProjection,android.hardware.display.VirtualDisplayConfig,android.hardware.display.VirtualDisplay$Callback,android.os.Handler)>
+<android.hardware.display.DisplayManager: android.hardware.display.VirtualDisplay createVirtualDisplay(android.media.projection.MediaProjection,java.lang.String,int,int,int,android.view.Surface,int,android.hardware.display.VirtualDisplay$Callback,android.os.Handler,java.lang.String)>
+<android.app.KeyguardManager: void setPrivateNotificationsAllowed(boolean)>
+<android.app.KeyguardManager: boolean setLock(int,byte[],int)>
+<android.accounts.AccountManager: void removeOnAccountsUpdatedListener(android.accounts.OnAccountsUpdateListener)>
+<android.accounts.AccountManager: boolean removeAccountExplicitly(android.accounts.Account)>
+<android.accounts.AccountManager: android.content.IntentSender createRequestAccountAccessIntentSenderAsUser(android.accounts.Account,java.lang.String,android.os.UserHandle)>
+<android.accounts.AccountManager: void addOnAccountsUpdatedListener(android.accounts.OnAccountsUpdateListener,android.os.Handler,boolean)>
+<android.accounts.AccountManager: void updateAppPermission(android.accounts.Account,java.lang.String,int,boolean)>
+<android.accounts.AccountManager: void addSharedAccountsFromParentUser(android.os.UserHandle,android.os.UserHandle)>
+<android.accounts.AccountManager: boolean someUserHasAccount(android.accounts.Account)>
+<android.accounts.AccountManager: void addOnAccountsUpdatedListener(android.accounts.OnAccountsUpdateListener,android.os.Handler,boolean,java.lang.String[])>
+<android.accounts.AccountManager: boolean notifyAccountAuthenticated(android.accounts.Account)>
+<android.net.NetworkScoreManager: boolean setActiveScorer(java.lang.String)>
+<android.media.MediaRouter: void rebindAsUser(int)>
+<android.media.MediaRouter: void <init>(android.content.Context)>
+<android.permission.PermissionManager: int checkDeviceIdentifierAccess(java.lang.String,java.lang.String,java.lang.String,int,int)>
+<android.content.om.OverlayManager: void setEnabledExclusiveInCategory(java.lang.String,android.os.UserHandle)>
+<android.content.om.OverlayManager: void invalidateCachesForOverlay(java.lang.String,android.os.UserHandle)>
+<android.content.om.OverlayManager: void setEnabled(java.lang.String,boolean,android.os.UserHandle)>
+<android.media.session.MediaSessionManager: void addOnSession2TokensChangedListener(android.media.session.MediaSessionManager$OnSession2TokensChangedListener)>
+<android.media.session.MediaSessionManager: void addOnSession2TokensChangedListener(android.media.session.MediaSessionManager$OnSession2TokensChangedListener,android.os.Handler)>
+<android.media.session.MediaSessionManager: void addOnSession2TokensChangedListener(int,android.media.session.MediaSessionManager$OnSession2TokensChangedListener,android.os.Handler)>
+<android.media.session.MediaSessionManager: android.media.session.ISession createSession(android.media.session.MediaSession$CallbackStub,java.lang.String,android.os.Bundle)>
+<android.app.timezonedetector.TimeZoneDetector: void suggestTelephonyTimeZone(android.app.timezonedetector.TelephonyTimeZoneSuggestion)>
+<android.app.timezonedetector.TimeZoneDetector: void suggestManualTimeZone(android.app.timezonedetector.ManualTimeZoneSuggestion)>
+<android.app.AppOpsManager: int noteOpNoThrow(int,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOp(int,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void setUidMode(java.lang.String,int,int)>
+<android.app.AppOpsManager: int noteOp(int,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOp(java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(int,int,java.lang.String,boolean)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(java.lang.String,java.lang.String,int)>
+<android.app.AppOpsManager: int noteOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int)>
+<android.app.AppOpsManager: int startOp(int,int,java.lang.String,boolean,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(int,int,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(int,int,java.lang.String)>
+<android.app.AppOpsManager: void reloadNonHistoricalState()>
+<android.app.AppOpsManager: void rebootHistory(long)>
+<android.app.AppOpsManager: int noteOpNoThrow(int,int,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int,int,java.lang.String)>
+<android.app.AppOpsManager: void setUidMode(int,int,int)>
+<android.app.AppOpsManager: int startOp(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int noteOp(int)>
+<android.app.AppOpsManager: int noteOpNoThrow(java.lang.String,int,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOp(java.lang.String,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int noteProxyOpNoThrow(int,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOp(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: void resetAllModes()>
+<android.app.AppOpsManager: int noteOpNoThrow(java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOp(int,int,java.lang.String,boolean)>
+<android.app.AppOpsManager: int noteProxyOp(int,java.lang.String,int,java.lang.String,java.lang.String)>
+<android.app.AppOpsManager: int startOpNoThrow(int,int,java.lang.String,boolean,java.lang.String,java.lang.String)>
+<android.app.SearchManager: void startSearch(java.lang.String,boolean,android.content.ComponentName,android.os.Bundle,boolean,android.graphics.Rect)>
+<android.app.SearchManager: void triggerSearch(java.lang.String,android.content.ComponentName,android.os.Bundle)>
+<android.app.SearchManager: void startSearch(java.lang.String,boolean,android.content.ComponentName,android.os.Bundle,boolean)>
+<android.app.usage.UsageStatsManager: android.app.usage.UsageEvents queryEventsForSelf(long,long)>
+<android.app.usage.UsageStatsManager: android.app.usage.UsageEvents queryEvents(long,long)>
+<android.app.usage.UsageStatsManager: java.util.List queryEventStats(int,long,long)>
+<android.app.usage.UsageStatsManager: void whitelistAppTemporarily(java.lang.String,long,android.os.UserHandle)>
+<android.app.usage.UsageStatsManager: void setAppInactive(java.lang.String,boolean)>
+<android.app.usage.UsageStatsManager: java.util.List queryConfigurations(int,long,long)>
+<android.app.usage.UsageStatsManager: void forceUsageSourceSettingRead()>
+<android.app.usage.UsageStatsManager: java.util.Map queryAndAggregateUsageStats(long,long)>
+<android.app.usage.UsageStatsManager: java.util.List queryUsageStats(int,long,long)>
+<android.app.AlarmManager: void setExactAndAllowWhileIdle(int,long,android.app.PendingIntent)>
+<android.app.AlarmManager: void set(int,long,long,long,android.app.AlarmManager$OnAlarmListener,android.os.Handler,android.os.WorkSource)>
+<android.app.AlarmManager: void setRepeating(int,long,long,android.app.PendingIntent)>
+<android.app.AlarmManager: void setAlarmClock(android.app.AlarmManager$AlarmClockInfo,android.app.PendingIntent)>
+<android.app.AlarmManager: void setExact(int,long,java.lang.String,android.app.AlarmManager$OnAlarmListener,android.os.Handler)>
+<android.app.AlarmManager: void setInexactRepeating(int,long,long,android.app.PendingIntent)>
+<android.app.AlarmManager: void set(int,long,long,long,java.lang.String,android.app.AlarmManager$OnAlarmListener,android.os.Handler,android.os.WorkSource)>
+<android.app.AlarmManager: void set(int,long,android.app.PendingIntent)>
+<android.app.AlarmManager: void setExact(int,long,android.app.PendingIntent)>
+<android.app.AlarmManager: void set(int,long,java.lang.String,android.app.AlarmManager$OnAlarmListener,android.os.Handler)>
+<android.app.AlarmManager: void setAndAllowWhileIdle(int,long,android.app.PendingIntent)>
+<android.app.AlarmManager: void setIdleUntil(int,long,java.lang.String,android.app.AlarmManager$OnAlarmListener,android.os.Handler)>
+<android.app.AlarmManager: void set(int,long,long,long,android.app.PendingIntent,android.os.WorkSource)>
+<android.app.AlarmManager: void setWindow(int,long,long,java.lang.String,android.app.AlarmManager$OnAlarmListener,android.os.Handler)>
+<android.app.AlarmManager: void setWindow(int,long,long,android.app.PendingIntent)>
+<android.appwidget.AppWidgetManager: void updateAppWidgetOptions(int,android.os.Bundle)>
+<android.appwidget.AppWidgetManager: void notifyAppWidgetViewDataChanged(int[],int)>
+<android.appwidget.AppWidgetManager: boolean bindAppWidgetIdIfAllowed(int,android.os.UserHandle,android.content.ComponentName,android.os.Bundle)>
+<android.appwidget.AppWidgetManager: void updateAppWidget(int[],android.widget.RemoteViews)>
+<android.appwidget.AppWidgetManager: boolean requestPinAppWidget(android.content.ComponentName,android.app.PendingIntent)>
+<android.appwidget.AppWidgetManager: void setBindAppWidgetPermission(java.lang.String,boolean)>
+<android.appwidget.AppWidgetManager: boolean bindAppWidgetIdIfAllowed(int,android.content.ComponentName,android.os.Bundle)>
+<android.appwidget.AppWidgetManager: void notifyAppWidgetViewDataChanged(int,int)>
+<android.appwidget.AppWidgetManager: void setBindAppWidgetPermission(java.lang.String,int,boolean)>
+<android.appwidget.AppWidgetManager: boolean bindRemoteViewsService(android.content.Context,int,android.content.Intent,android.app.IServiceConnection,int)>
+<android.appwidget.AppWidgetManager: void updateAppWidgetProviderInfo(android.content.ComponentName,java.lang.String)>
+<android.appwidget.AppWidgetManager: void updateAppWidget(android.content.ComponentName,android.widget.RemoteViews)>
+<android.appwidget.AppWidgetManager: void bindAppWidgetId(int,android.content.ComponentName,android.os.Bundle)>
+<android.appwidget.AppWidgetManager: boolean bindAppWidgetIdIfAllowed(int,android.content.ComponentName)>
+<android.appwidget.AppWidgetManager: void updateAppWidget(int,android.widget.RemoteViews)>
+<android.appwidget.AppWidgetManager: void bindAppWidgetId(int,android.content.ComponentName)>
+<android.appwidget.AppWidgetManager: void partiallyUpdateAppWidget(int,android.widget.RemoteViews)>
+<android.appwidget.AppWidgetManager: boolean requestPinAppWidget(android.content.ComponentName,android.os.Bundle,android.app.PendingIntent)>
+<android.appwidget.AppWidgetManager: void noteAppWidgetTapped(int)>
+<android.appwidget.AppWidgetManager: void partiallyUpdateAppWidget(int[],android.widget.RemoteViews)>
+<android.view.accessibility.CaptioningManager: void addCaptioningChangeListener(android.view.accessibility.CaptioningManager$CaptioningChangeListener)>
+<android.location.LocationManager: void setLocationEnabledForUser(boolean,android.os.UserHandle)>
+<android.location.LocationManager: void removeUpdates(android.app.PendingIntent)>
+<android.location.LocationManager: void addProximityAlert(double,double,float,long,android.app.PendingIntent)>
+<android.location.LocationManager: void removeUpdates(android.location.LocationListener)>
+<android.location.LocationManager: void addGeofence(android.location.LocationRequest,android.location.Geofence,android.app.PendingIntent)>
+<android.location.LocationManager: boolean injectLocation(android.location.Location)>
+<android.os.RecoverySystem: void rebootAndApply(android.content.Context,java.lang.String,java.lang.String)>
+<android.telephony.TelephonyRegistryManager: void notifyOutgoingEmergencySms(int,int,android.telephony.emergency.EmergencyNumber)>
+<android.telephony.TelephonyRegistryManager: void notifyVoiceActivationStateChanged(int,int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyCarrierNetworkChange(boolean)>
+<android.telephony.TelephonyRegistryManager: void notifyCallForwardingChanged(int,boolean)>
+<android.telephony.TelephonyRegistryManager: void notifyCellInfoChanged(int,java.util.List)>
+<android.telephony.TelephonyRegistryManager: void notifyMessageWaitingChanged(int,int,boolean)>
+<android.telephony.TelephonyRegistryManager: void notifyPreciseCallState(int,int,int,int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyBarringInfoChanged(int,int,android.telephony.BarringInfo)>
+<android.telephony.TelephonyRegistryManager: void notifyDisconnectCause(int,int,int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyPreciseDataConnectionFailed(int,int,int,java.lang.String,int)>
+<android.telephony.TelephonyRegistryManager: void notifyRadioPowerStateChanged(int,int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyDataActivationStateChanged(int,int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyImsDisconnectCause(int,android.telephony.ims.ImsReasonInfo)>
+<android.telephony.TelephonyRegistryManager: void notifyCallStateChangedForAllSubscriptions(int,java.lang.String)>
+<android.telephony.TelephonyRegistryManager: void notifyCallStateChanged(int,int,int,java.lang.String)>
+<android.telephony.TelephonyRegistryManager: void notifySignalStrengthChanged(int,int,android.telephony.SignalStrength)>
+<android.telephony.TelephonyRegistryManager: void notifyRegistrationFailed(int,int,android.telephony.CellIdentity,java.lang.String,int,int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyDataActivityChanged(int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyServiceStateChanged(int,int,android.telephony.ServiceState)>
+<android.telephony.TelephonyRegistryManager: void removeOnOpportunisticSubscriptionsChangedListener(android.telephony.SubscriptionManager$OnOpportunisticSubscriptionsChangedListener)>
+<android.telephony.TelephonyRegistryManager: void notifyCellLocation(int,android.telephony.CellIdentity)>
+<android.telephony.TelephonyRegistryManager: void notifyDisplayInfoChanged(int,int,android.telephony.TelephonyDisplayInfo)>
+<android.telephony.TelephonyRegistryManager: void notifyOpportunisticSubscriptionInfoChanged()>
+<android.telephony.TelephonyRegistryManager: void notifySrvccStateChanged(int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyOutgoingEmergencyCall(int,int,android.telephony.emergency.EmergencyNumber)>
+<android.telephony.TelephonyRegistryManager: void notifyUserMobileDataStateChanged(int,int,boolean)>
+<android.telephony.TelephonyRegistryManager: void removeOnSubscriptionsChangedListener(android.telephony.SubscriptionManager$OnSubscriptionsChangedListener)>
+<android.telephony.TelephonyRegistryManager: void notifyEmergencyNumberList(int,int)>
+<android.telephony.TelephonyRegistryManager: void notifyActiveDataSubIdChanged(int)>
+<android.telephony.TelephonyRegistryManager: void notifyPhoneCapabilityChanged(android.telephony.PhoneCapability)>
+<android.telephony.TelephonyRegistryManager: void notifySubscriptionInfoChanged()>
+<android.telephony.TelephonyRegistryManager: void listenForSubscriber(int,java.lang.String,java.lang.String,android.telephony.PhoneStateListener,int,boolean)>
+<android.telephony.TelephonyRegistryManager: void notifyCallQualityChanged(int,int,android.telephony.CallQuality,int)>
+<android.telephony.TelephonyRegistryManager: void notifyDataConnectionForSubscriber(int,int,int,android.telephony.PreciseDataConnectionState)>
+<android.telephony.TelephonyRegistryManager: void addOnOpportunisticSubscriptionsChangedListener(android.telephony.SubscriptionManager$OnOpportunisticSubscriptionsChangedListener,java.util.concurrent.Executor)>
+<android.telephony.TelephonyRegistryManager: void addOnSubscriptionsChangedListener(android.telephony.SubscriptionManager$OnSubscriptionsChangedListener,java.util.concurrent.Executor)>
+<android.hardware.fingerprint.FingerprintManager: void authenticate(android.hardware.fingerprint.FingerprintManager$CryptoObject,android.os.CancellationSignal,int,android.hardware.fingerprint.FingerprintManager$AuthenticationCallback,android.os.Handler)>
+<android.hardware.fingerprint.FingerprintManager: void remove(android.hardware.fingerprint.Fingerprint,int,android.hardware.fingerprint.FingerprintManager$RemovalCallback)>
+<android.hardware.fingerprint.FingerprintManager: void enumerate(int,android.hardware.fingerprint.FingerprintManager$EnumerateCallback)>
+<android.hardware.fingerprint.FingerprintManager: int postEnroll()>
+<android.hardware.fingerprint.FingerprintManager: void enroll(byte[],android.os.CancellationSignal,int,int,android.hardware.fingerprint.FingerprintManager$EnrollmentCallback)>
+<android.hardware.fingerprint.FingerprintManager: void authenticate(android.hardware.fingerprint.FingerprintManager$CryptoObject,android.os.CancellationSignal,int,android.hardware.fingerprint.FingerprintManager$AuthenticationCallback,android.os.Handler,int)>
+<android.hardware.fingerprint.FingerprintManager: long preEnroll()>
+<android.hardware.fingerprint.FingerprintManager: void setActiveUser(int)>
+<android.net.ConnectivityDiagnosticsManager: void registerConnectivityDiagnosticsCallback(android.net.NetworkRequest,java.util.concurrent.Executor,android.net.ConnectivityDiagnosticsManager$ConnectivityDiagnosticsCallback)>
+<android.net.ConnectivityDiagnosticsManager: void unregisterConnectivityDiagnosticsCallback(android.net.ConnectivityDiagnosticsManager$ConnectivityDiagnosticsCallback)>
+<android.content.rollback.RollbackManager: void expireRollbackForPackage(java.lang.String)>
+<android.content.rollback.RollbackManager: void commitRollback(int,java.util.List,android.content.IntentSender)>
+<android.content.pm.ShortcutManager: void onApplicationActive(java.lang.String,int)>
+<android.content.pm.ShortcutManager: void removeDynamicShortcuts(java.util.List)>
+<android.content.pm.ShortcutManager: void disableShortcuts(java.util.List,java.lang.String)>
+<android.content.pm.ShortcutManager: boolean addDynamicShortcuts(java.util.List)>
+<android.content.pm.ShortcutManager: void pushDynamicShortcut(android.content.pm.ShortcutInfo)>
+<android.content.pm.ShortcutManager: boolean requestPinShortcut(android.content.pm.ShortcutInfo,android.content.IntentSender)>
+<android.content.pm.ShortcutManager: void disableShortcuts(java.util.List)>
+<android.content.pm.ShortcutManager: void removeLongLivedShortcuts(java.util.List)>
+<android.content.pm.ShortcutManager: void removeAllDynamicShortcuts()>
+<android.content.pm.ShortcutManager: boolean updateShortcuts(java.util.List)>
+<android.content.pm.ShortcutManager: android.content.Intent createShortcutResultIntent(android.content.pm.ShortcutInfo)>
+<android.content.pm.ShortcutManager: void reportShortcutUsed(java.lang.String)>
+<android.content.pm.ShortcutManager: void disableShortcuts(java.util.List,java.lang.CharSequence)>
+<android.content.pm.ShortcutManager: void disableShortcuts(java.util.List,int)>
+<android.content.pm.ShortcutManager: void enableShortcuts(java.util.List)>
+<android.content.pm.ShortcutManager: boolean setDynamicShortcuts(java.util.List)>
+<android.net.VpnManager: void startProvisionedVpnProfile()>
+<android.net.VpnManager: android.content.Intent provisionVpnProfile(android.net.PlatformVpnProfile)>
+<android.app.admin.DevicePolicyManager: void setLogoutEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void reportFailedBiometricAttempt(int)>
+<android.app.admin.DevicePolicyManager: boolean setPermissionGrantState(android.content.ComponentName,java.lang.String,java.lang.String,int)>
+<android.app.admin.DevicePolicyManager: boolean setPermittedInputMethods(android.content.ComponentName,java.util.List)>
+<android.app.admin.DevicePolicyManager: void setPasswordExpirationTimeout(android.content.ComponentName,long)>
+<android.app.admin.DevicePolicyManager: android.content.ComponentName setGlobalProxy(android.content.ComponentName,java.net.Proxy,java.util.List)>
+<android.app.admin.DevicePolicyManager: int enableSystemApp(android.content.ComponentName,android.content.Intent)>
+<android.app.admin.DevicePolicyManager: boolean setDeviceOwner(android.content.ComponentName,java.lang.String,int)>
+<android.app.admin.DevicePolicyManager: boolean setDeviceOwner(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setLockTaskFeatures(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setLockTaskPackages(android.content.ComponentName,java.lang.String[])>
+<android.app.admin.DevicePolicyManager: boolean setPermittedCrossProfileNotificationListeners(android.content.ComponentName,java.util.List)>
+<android.app.admin.DevicePolicyManager: boolean setStatusBarDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setActiveAdmin(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void clearPackagePersistentPreferredActivities(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setUserIcon(android.content.ComponentName,android.graphics.Bitmap)>
+<android.app.admin.DevicePolicyManager: boolean setProfileOwner(android.content.ComponentName,java.lang.String,int)>
+<android.app.admin.DevicePolicyManager: void setDelegatedScopes(android.content.ComponentName,java.lang.String,java.util.List)>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumLowerCase(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void lockNow(int)>
+<android.app.admin.DevicePolicyManager: void setDeviceOwnerLockScreenInfo(android.content.ComponentName,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: int setGlobalPrivateDnsModeSpecifiedHost(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void clearCrossProfileIntentFilters(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void reportSuccessfulBiometricAttempt(int)>
+<android.app.admin.DevicePolicyManager: void setLongSupportMessage(android.content.ComponentName,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: void transferOwnership(android.content.ComponentName,android.content.ComponentName,android.os.PersistableBundle)>
+<android.app.admin.DevicePolicyManager: java.util.List retrieveSecurityLogs(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: boolean bindDeviceAdminServiceAsUser(android.content.ComponentName,android.content.Intent,android.content.ServiceConnection,int,android.os.UserHandle)>
+<android.app.admin.DevicePolicyManager: void enableSystemApp(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void wipeData(int,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: boolean setApplicationHidden(android.content.ComponentName,java.lang.String,boolean)>
+<android.app.admin.DevicePolicyManager: boolean setKeyguardDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setSecondaryLockscreenEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setPermissionPolicy(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setSystemSetting(android.content.ComponentName,java.lang.String,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setBluetoothContactSharingDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: boolean switchUser(android.content.ComponentName,android.os.UserHandle)>
+<android.app.admin.DevicePolicyManager: void forceUpdateUserSetupComplete()>
+<android.app.admin.DevicePolicyManager: java.util.List retrieveNetworkLogs(android.content.ComponentName,long)>
+<android.app.admin.DevicePolicyManager: void setProfileOwnerCanAccessDeviceIds(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setSecurityLoggingEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: int addOverrideApn(android.content.ComponentName,android.telephony.data.ApnSetting)>
+<android.app.admin.DevicePolicyManager: void setKeyguardDisabledFeatures(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setSystemUpdatePolicy(android.content.ComponentName,android.app.admin.SystemUpdatePolicy)>
+<android.app.admin.DevicePolicyManager: void addCrossProfileIntentFilter(android.content.ComponentName,android.content.IntentFilter,int)>
+<android.app.admin.DevicePolicyManager: android.os.UserHandle createAndManageUser(android.content.ComponentName,java.lang.String,android.content.ComponentName,android.os.PersistableBundle,int)>
+<android.app.admin.DevicePolicyManager: void setActiveAdmin(android.content.ComponentName,boolean,int)>
+<android.app.admin.DevicePolicyManager: void setOrganizationColor(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumNumeric(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: boolean setResetPasswordToken(android.content.ComponentName,byte[])>
+<android.app.admin.DevicePolicyManager: boolean setDeviceOwner(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setPasswordHistoryLength(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumUpperCase(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setProfileEnabled(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setRecommendedGlobalProxy(android.content.ComponentName,android.net.ProxyInfo)>
+<android.app.admin.DevicePolicyManager: boolean approveCaCert(java.lang.String,int,boolean)>
+<android.app.admin.DevicePolicyManager: void setOverrideApnsEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: boolean installKeyPair(android.content.ComponentName,java.security.PrivateKey,java.security.cert.Certificate[],java.lang.String,int)>
+<android.app.admin.DevicePolicyManager: void setCrossProfileContactsSearchDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void removeActiveAdmin(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void reportKeyguardSecured(int)>
+<android.app.admin.DevicePolicyManager: void reportSuccessfulPasswordAttempt(int)>
+<android.app.admin.DevicePolicyManager: boolean requestBugreport(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: boolean setKeyPairCertificate(android.content.ComponentName,java.lang.String,java.util.List,boolean)>
+<android.app.admin.DevicePolicyManager: void setNetworkLoggingEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setUninstallBlocked(android.content.ComponentName,java.lang.String,boolean)>
+<android.app.admin.DevicePolicyManager: boolean setDeviceOwner(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setPasswordQuality(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setAutoTimeEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setCertInstallerPackage(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setConfiguredNetworksLockdownState(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setForceEphemeralUsers(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: boolean resetPassword(java.lang.String,int)>
+<android.app.admin.DevicePolicyManager: void setBackupServiceEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumLength(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setGlobalSetting(android.content.ComponentName,java.lang.String,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setAutoTimeZoneEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: boolean removeKeyPair(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: boolean installExistingPackage(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setStartUserSessionMessage(android.content.ComponentName,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: android.security.AttestedKeyPair generateKeyPair(android.content.ComponentName,java.lang.String,android.security.keystore.KeyGenParameterSpec,int)>
+<android.app.admin.DevicePolicyManager: boolean setTimeZone(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setApplicationRestrictionsManagingPackage(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: boolean revokeKeyPairFromApp(android.content.ComponentName,java.lang.String,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setRequiredStrongAuthTimeout(android.content.ComponentName,long)>
+<android.app.admin.DevicePolicyManager: int setGlobalPrivateDnsModeOpportunistic(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: int stopUser(android.content.ComponentName,android.os.UserHandle)>
+<android.app.admin.DevicePolicyManager: void uninstallPackageWithActiveAdmins(java.lang.String)>
+<android.app.admin.DevicePolicyManager: void markProfileOwnerOnOrganizationOwnedDevice(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void uninstallAllUserCaCerts(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void clearDeviceOwnerApp(java.lang.String)>
+<android.app.admin.DevicePolicyManager: void reportPasswordChanged(int)>
+<android.app.admin.DevicePolicyManager: boolean installKeyPair(android.content.ComponentName,java.security.PrivateKey,java.security.cert.Certificate,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void wipeData(int)>
+<android.app.admin.DevicePolicyManager: void setMaximumFailedPasswordsForWipe(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: int startUserInBackground(android.content.ComponentName,android.os.UserHandle)>
+<android.app.admin.DevicePolicyManager: void clearUserRestriction(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setCrossProfileCalendarPackages(android.content.ComponentName,java.util.Set)>
+<android.app.admin.DevicePolicyManager: boolean grantKeyPairToApp(android.content.ComponentName,java.lang.String,java.lang.String)>
+<android.app.admin.DevicePolicyManager: java.util.List retrievePreRebootSecurityLogs(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setOrganizationColorForUser(int,int)>
+<android.app.admin.DevicePolicyManager: int checkProvisioningPreCondition(java.lang.String,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setScreenCaptureDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setUserControlDisabledPackages(android.content.ComponentName,java.util.List)>
+<android.app.admin.DevicePolicyManager: void setEndUserSessionMessage(android.content.ComponentName,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: void setTrustAgentConfiguration(android.content.ComponentName,android.content.ComponentName,android.os.PersistableBundle)>
+<android.app.admin.DevicePolicyManager: boolean setActiveProfileOwner(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setFactoryResetProtectionPolicy(android.content.ComponentName,android.app.admin.FactoryResetProtectionPolicy)>
+<android.app.admin.DevicePolicyManager: void setKeepUninstalledPackages(android.content.ComponentName,java.util.List)>
+<android.app.admin.DevicePolicyManager: boolean removeOverrideApn(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setMasterVolumeMuted(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void addPersistentPreferredActivity(android.content.ComponentName,android.content.IntentFilter,android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setApplicationRestrictions(android.content.ComponentName,java.lang.String,android.os.Bundle)>
+<android.app.admin.DevicePolicyManager: void setPersonalAppsSuspended(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: int setStorageEncryption(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setCommonCriteriaModeEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void clearApplicationUserData(android.content.ComponentName,java.lang.String,java.util.concurrent.Executor,android.app.admin.DevicePolicyManager$OnClearApplicationUserDataListener)>
+<android.app.admin.DevicePolicyManager: void reportFailedPasswordAttempt(int)>
+<android.app.admin.DevicePolicyManager: long forceNetworkLogs()>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumNonLetter(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void reboot(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumSymbols(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: void setPasswordMinimumLetters(android.content.ComponentName,int)>
+<android.app.admin.DevicePolicyManager: boolean installCaCert(android.content.ComponentName,byte[])>
+<android.app.admin.DevicePolicyManager: void setMaximumTimeToLock(android.content.ComponentName,long)>
+<android.app.admin.DevicePolicyManager: boolean installKeyPair(android.content.ComponentName,java.security.PrivateKey,java.security.cert.Certificate[],java.lang.String,boolean)>
+<android.app.admin.DevicePolicyManager: void setAffiliationIds(android.content.ComponentName,java.util.Set)>
+<android.app.admin.DevicePolicyManager: void setSecureSetting(android.content.ComponentName,java.lang.String,java.lang.String)>
+<android.app.admin.DevicePolicyManager: android.content.Intent createAdminSupportIntent(java.lang.String)>
+<android.app.admin.DevicePolicyManager: boolean setPermittedAccessibilityServices(android.content.ComponentName,java.util.List)>
+<android.app.admin.DevicePolicyManager: void setCrossProfileCallerIdDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void setAccountManagementDisabled(android.content.ComponentName,java.lang.String,boolean)>
+<android.app.admin.DevicePolicyManager: void setCrossProfilePackages(android.content.ComponentName,java.util.Set)>
+<android.app.admin.DevicePolicyManager: void setAlwaysOnVpnPackage(android.content.ComponentName,java.lang.String,boolean,java.util.Set)>
+<android.app.admin.DevicePolicyManager: void setShortSupportMessage(android.content.ComponentName,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: boolean addCrossProfileWidgetProvider(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: boolean setTime(android.content.ComponentName,long)>
+<android.app.admin.DevicePolicyManager: void setCameraDisabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void installSystemUpdate(android.content.ComponentName,android.net.Uri,java.util.concurrent.Executor,android.app.admin.DevicePolicyManager$InstallSystemUpdateCallback)>
+<android.app.admin.DevicePolicyManager: boolean updateOverrideApn(android.content.ComponentName,int,android.telephony.data.ApnSetting)>
+<android.app.admin.DevicePolicyManager: boolean packageHasActiveAdmins(java.lang.String,int)>
+<android.app.admin.DevicePolicyManager: void setProfileName(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: boolean clearResetPasswordToken(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void clearProfileOwner(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: void setAutoTimeRequired(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: void lockNow()>
+<android.app.admin.DevicePolicyManager: void setManagedProfileMaximumTimeOff(android.content.ComponentName,long)>
+<android.app.admin.DevicePolicyManager: boolean packageHasActiveAdmins(java.lang.String)>
+<android.app.admin.DevicePolicyManager: void reportKeyguardDismissed(int)>
+<android.app.admin.DevicePolicyManager: boolean removeCrossProfileWidgetProvider(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: int logoutUser(android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: java.lang.String[] setPackagesSuspended(android.content.ComponentName,java.lang.String[],boolean)>
+<android.app.admin.DevicePolicyManager: void setAlwaysOnVpnPackage(android.content.ComponentName,java.lang.String,boolean)>
+<android.app.admin.DevicePolicyManager: void setDeviceProvisioningConfigApplied()>
+<android.app.admin.DevicePolicyManager: void setDefaultSmsApplication(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void addUserRestriction(android.content.ComponentName,java.lang.String)>
+<android.app.admin.DevicePolicyManager: void setOrganizationName(android.content.ComponentName,java.lang.CharSequence)>
+<android.app.admin.DevicePolicyManager: void setRestrictionsProvider(android.content.ComponentName,android.content.ComponentName)>
+<android.app.admin.DevicePolicyManager: boolean removeUser(android.content.ComponentName,android.os.UserHandle)>
+<android.app.admin.DevicePolicyManager: void uninstallCaCert(android.content.ComponentName,byte[])>
+<android.app.admin.DevicePolicyManager: void setUserProvisioningState(int,int)>
+<android.app.admin.DevicePolicyManager: void setLocationEnabled(android.content.ComponentName,boolean)>
+<android.app.admin.DevicePolicyManager: boolean resetPasswordWithToken(android.content.ComponentName,java.lang.String,byte[],int)>
+<android.app.admin.DevicePolicyManager: java.util.List setMeteredDataDisabledPackages(android.content.ComponentName,java.util.List)>
+<android.print.PrintManager: android.print.PrinterDiscoverySession createPrinterDiscoverySession()>
+<android.print.PrintManager: android.print.PrintJob print(java.lang.String,android.print.PrintDocumentAdapter,android.print.PrintAttributes)>
+<android.print.PrintManager: void addPrintServicesChangeListener(android.print.PrintManager$PrintServicesChangeListener,android.os.Handler)>
+<android.print.PrintManager: void addPrintJobStateChangeListener(android.print.PrintManager$PrintJobStateChangeListener)>
+<android.print.PrintManager: void setPrintServiceEnabled(android.content.ComponentName,boolean)>
+<android.print.PrintManager: void removePrintServicesChangeListener(android.print.PrintManager$PrintServicesChangeListener)>
+<android.print.PrintManager: void removePrintJobStateChangeListener(android.print.PrintManager$PrintJobStateChangeListener)>
+<android.print.PrintManager: void addPrintServiceRecommendationsChangeListener(android.print.PrintManager$PrintServiceRecommendationsChangeListener,android.os.Handler)>
+<android.print.PrintManager: void removePrintServiceRecommendationsChangeListener(android.print.PrintManager$PrintServiceRecommendationsChangeListener)>
+<android.view.contentcapture.ContentCaptureManager: void removeData(android.view.contentcapture.DataRemovalRequest)>
+<android.view.contentcapture.ContentCaptureManager: void shareData(android.view.contentcapture.DataShareRequest,java.util.concurrent.Executor,android.view.contentcapture.DataShareWriteAdapter)>
+<android.view.contentcapture.ContentCaptureManager: void onActivityCreated(android.os.IBinder,android.content.ComponentName)>
+<android.app.usage.NetworkStatsManager: void registerUsageCallback(int,java.lang.String,long,android.app.usage.NetworkStatsManager$UsageCallback,android.os.Handler)>
+<android.app.usage.NetworkStatsManager: void registerUsageCallback(android.net.NetworkTemplate,int,long,android.app.usage.NetworkStatsManager$UsageCallback,android.os.Handler)>
+<android.app.usage.NetworkStatsManager: void registerUsageCallback(int,java.lang.String,long,android.app.usage.NetworkStatsManager$UsageCallback)>
+<android.content.pm.LauncherApps: boolean shouldHideFromSuggestions(java.lang.String,android.os.UserHandle)>
+<android.content.pm.LauncherApps: void startAppDetailsActivity(android.content.ComponentName,android.os.UserHandle,android.graphics.Rect,android.os.Bundle)>
+<android.content.pm.LauncherApps: android.content.pm.LauncherActivityInfo resolveActivity(android.content.Intent,android.os.UserHandle)>
+<android.content.pm.LauncherApps: void pinShortcuts(java.lang.String,java.util.List,android.os.UserHandle)>
+<android.content.pm.LauncherApps: void startShortcut(android.content.pm.ShortcutInfo,android.graphics.Rect,android.os.Bundle)>
+<android.content.pm.LauncherApps: void registerCallback(android.content.pm.LauncherApps$Callback,android.os.Handler)>
+<android.content.pm.LauncherApps: void unregisterShortcutChangeCallback(android.content.pm.LauncherApps$ShortcutChangeCallback)>
+<android.content.pm.LauncherApps: void startPackageInstallerSessionDetailsActivity(android.content.pm.PackageInstaller$SessionInfo,android.graphics.Rect,android.os.Bundle)>
+<android.content.pm.LauncherApps: void registerCallback(android.content.pm.LauncherApps$Callback)>
+<android.content.pm.LauncherApps: void registerShortcutChangeCallback(android.content.pm.LauncherApps$ShortcutChangeCallback,android.content.pm.LauncherApps$ShortcutQuery,java.util.concurrent.Executor)>
+<android.content.pm.LauncherApps: void startMainActivity(android.content.ComponentName,android.os.UserHandle,android.graphics.Rect,android.os.Bundle)>
+<android.content.pm.LauncherApps: void uncacheShortcuts(java.lang.String,java.util.List,android.os.UserHandle,int)>
+<android.content.pm.LauncherApps: void startShortcut(java.lang.String,java.lang.String,android.graphics.Rect,android.os.Bundle,android.os.UserHandle)>
+<android.content.pm.LauncherApps: void registerPackageInstallerSessionCallback(java.util.concurrent.Executor,android.content.pm.PackageInstaller$SessionCallback)>
+<android.content.pm.LauncherApps: void cacheShortcuts(java.lang.String,java.util.List,android.os.UserHandle,int)>
+<android.app.slice.SliceManager: void pinSlice(android.net.Uri,java.util.List)>
+<android.app.slice.SliceManager: void unpinSlice(android.net.Uri)>
+<android.app.slice.SliceManager: void grantSlicePermission(java.lang.String,android.net.Uri)>
+<android.app.slice.SliceManager: int checkSlicePermission(android.net.Uri,int,int)>
+<android.app.slice.SliceManager: void pinSlice(android.net.Uri,java.util.Set)>
+<android.app.slice.SliceManager: void enforceSlicePermission(android.net.Uri,java.lang.String,int,int,java.lang.String[])>
+<android.app.slice.SliceManager: void grantPermissionFromUser(android.net.Uri,java.lang.String,boolean)>
+<android.app.slice.SliceManager: void revokeSlicePermission(java.lang.String,android.net.Uri)>
+<android.view.autofill.AutofillManager: void disableOwnedAutofillServices()>
+<android.view.autofill.AutofillManager: void notifyValueChanged(android.view.View,int,android.view.autofill.AutofillValue)>
+<android.view.autofill.AutofillManager: void registerCallback(android.view.autofill.AutofillManager$AutofillCallback)>
+<android.view.autofill.AutofillManager: void lambda$onVisibleForAutofill$0$AutofillManager()>
+<android.view.autofill.AutofillManager: void setUserData(android.service.autofill.UserData)>
+<android.view.autofill.AutofillManager: void notifyViewClicked(android.view.View,int)>
+<android.view.autofill.AutofillManager: void requestAutofill(android.view.View,int,android.graphics.Rect)>
+<android.view.autofill.AutofillManager: void notifyViewExited(android.view.View,int)>
+<android.view.autofill.AutofillManager: void onPendingSaveUi(int,android.os.IBinder)>
+<android.view.autofill.AutofillManager: void unregisterCallback(android.view.autofill.AutofillManager$AutofillCallback)>
+<android.view.autofill.AutofillManager: void notifyViewEntered(android.view.View,int,android.graphics.Rect)>
+<android.view.autofill.AutofillManager: void notifyViewVisibilityChanged(android.view.View,int,boolean)>
+<android.view.autofill.AutofillManager: void commit()>
+<android.view.autofill.AutofillManager: void notifyViewClicked(android.view.View)>
+<android.view.autofill.AutofillManager: void disableAutofillServices()>
+<android.view.autofill.AutofillManager: void notifyValueChanged(android.view.View)>
+<android.view.autofill.AutofillManager: void notifyViewExited(android.view.View)>
+<android.view.autofill.AutofillManager: void onCreate(android.os.Bundle)>
+<android.view.autofill.AutofillManager: void notifyViewEntered(android.view.View)>
+<android.view.autofill.AutofillManager: void onInvisibleForAutofill(boolean)>
+<android.view.autofill.AutofillManager: void notifyViewVisibilityChanged(android.view.View,boolean)>
+<android.view.autofill.AutofillManager: void onAuthenticationResult(int,android.content.Intent,android.view.View)>
+<android.view.autofill.AutofillManager: void onActivityFinishing()>
+<android.view.autofill.AutofillManager: void requestAutofill(android.view.View)>
+<android.view.autofill.AutofillManager: void cancel()>
+<android.view.autofill.AutofillManager: void setAugmentedAutofillWhitelist(java.util.Set,java.util.Set)>
+<android.os.IBinder: void shellCommand(java.io.FileDescriptor,java.io.FileDescriptor,java.io.FileDescriptor,java.lang.String[],android.os.ShellCallback,android.os.ResultReceiver)>
+<android.os.IBinder: void dump(java.io.FileDescriptor,java.lang.String[])>
+<android.view.inputmethod.InputMethodManager: void setAdditionalInputMethodSubtypes(java.lang.String,android.view.inputmethod.InputMethodSubtype[])>
+<android.view.inputmethod.InputMethodManager: void showInputMethodAndSubtypeEnabler(java.lang.String)>
+<android.view.inputmethod.InputMethodManager: int dispatchInputEvent(android.view.InputEvent,java.lang.Object,android.view.inputmethod.InputMethodManager$FinishedInputEventCallback,android.os.Handler)>
+<android.view.inputmethod.InputMethodManager: void showInputMethodPicker()>
+<android.app.timedetector.TimeDetector: void suggestManualTime(android.app.timedetector.ManualTimeSuggestion)>
+<android.app.timedetector.TimeDetector: void suggestNetworkTime(android.app.timedetector.NetworkTimeSuggestion)>
+<android.app.timedetector.TimeDetector: void suggestTelephonyTime(android.app.timedetector.TelephonyTimeSuggestion)>
+<android.net.ConnectivityManager: void setAcceptPartialConnectivity(android.net.Network,boolean,boolean)>
+<android.net.ConnectivityManager: void requestNetwork(android.net.NetworkRequest,android.app.PendingIntent)>
+<android.net.ConnectivityManager: void unregisterNetworkCallback(android.app.PendingIntent)>
+<android.net.ConnectivityManager: void registerNetworkCallback(android.net.NetworkRequest,android.net.ConnectivityManager$NetworkCallback,android.os.Handler)>
+<android.net.ConnectivityManager: void requestNetwork(android.net.NetworkRequest,android.net.ConnectivityManager$NetworkCallback,int)>
+<android.net.ConnectivityManager: void requestNetwork(android.net.NetworkRequest,android.net.ConnectivityManager$NetworkCallback,android.os.Handler,int)>
+<android.net.ConnectivityManager: int startUsingNetworkFeature(int,java.lang.String)>
+<android.net.ConnectivityManager: void registerNetworkCallback(android.net.NetworkRequest,android.app.PendingIntent)>
+<android.net.ConnectivityManager: void unregisterNetworkCallback(android.net.ConnectivityManager$NetworkCallback)>
+<android.net.ConnectivityManager: boolean requestRouteToHostAddress(int,java.net.InetAddress)>
+<android.net.ConnectivityManager: void registerNetworkCallback(android.net.NetworkRequest,android.net.ConnectivityManager$NetworkCallback)>
+<android.net.ConnectivityManager: void reportBadNetwork(android.net.Network)>
+<android.net.ConnectivityManager: void unregisterNetworkProvider(android.net.NetworkProvider)>
+<android.net.ConnectivityManager: void requestNetwork(android.net.NetworkRequest,android.net.ConnectivityManager$NetworkCallback,android.os.Handler)>
+<android.net.ConnectivityManager: boolean requestRouteToHost(int,int)>
+<android.net.ConnectivityManager: void reportNetworkConnectivity(android.net.Network,boolean)>
+<android.net.ConnectivityManager: void declareNetworkRequestUnfulfillable(android.net.NetworkRequest)>
+<android.net.ConnectivityManager: void reportInetCondition(int,int)>
+<android.net.ConnectivityManager: void registerDefaultNetworkCallback(android.net.ConnectivityManager$NetworkCallback,android.os.Handler)>
+<android.net.ConnectivityManager: void requestNetwork(android.net.NetworkRequest,int,int,android.os.Handler,android.net.ConnectivityManager$NetworkCallback)>
+<android.net.ConnectivityManager: void enforceChangePermission(android.content.Context)>
+<android.net.ConnectivityManager: int stopUsingNetworkFeature(int,java.lang.String)>
+<android.net.ConnectivityManager: void setAcceptUnvalidated(android.net.Network,boolean,boolean)>
+<android.net.ConnectivityManager: int registerNetworkProvider(android.net.NetworkProvider)>
+<android.net.ConnectivityManager: void requestNetwork(android.net.NetworkRequest,android.net.ConnectivityManager$NetworkCallback)>
+<android.net.ConnectivityManager: void registerDefaultNetworkCallback(android.net.ConnectivityManager$NetworkCallback)>
+<android.net.ConnectivityManager: int registerNetworkFactory(android.os.Messenger,java.lang.String)>
+<android.net.ConnectivityManager: void simulateDataStall(int,long,android.net.Network,android.os.PersistableBundle)>
+<android.net.ConnectivityManager: boolean setAlwaysOnVpnPackageForUser(int,java.lang.String,boolean,java.util.List)>
+<android.net.ConnectivityManager: void releaseNetworkRequest(android.app.PendingIntent)>
+<android.net.ConnectivityManager: void unregisterNetworkFactory(android.os.Messenger)>
+<android.net.ConnectivityManager: boolean updateLockdownVpn()>
+<android.net.ConnectivityManager: void setAvoidUnvalidated(android.net.Network)>
+<android.net.ConnectivityManager: void factoryReset()>
+<android.telephony.MmsManager: void sendMultimediaMessage(int,android.net.Uri,java.lang.String,android.os.Bundle,android.app.PendingIntent,long)>
+<android.telephony.MmsManager: void downloadMultimediaMessage(int,java.lang.String,android.net.Uri,android.os.Bundle,android.app.PendingIntent,long)>
+<android.app.contentsuggestions.ContentSuggestionsManager: void provideContextImage(int,android.os.Bundle)>
+<android.app.contentsuggestions.ContentSuggestionsManager: void notifyInteraction(java.lang.String,android.os.Bundle)>
+<android.app.contentsuggestions.ContentSuggestionsManager: void classifyContentSelections(android.app.contentsuggestions.ClassificationsRequest,java.util.concurrent.Executor,android.app.contentsuggestions.ContentSuggestionsManager$ClassificationsCallback)>
+<android.app.contentsuggestions.ContentSuggestionsManager: void provideContextImage(android.graphics.Bitmap,android.os.Bundle)>
+<android.app.contentsuggestions.ContentSuggestionsManager: void suggestContentSelections(android.app.contentsuggestions.SelectionsRequest,java.util.concurrent.Executor,android.app.contentsuggestions.ContentSuggestionsManager$SelectionsCallback)>
+<android.content.pm.CrossProfileApps: void startMainActivity(android.content.ComponentName,android.os.UserHandle)>
+<android.content.pm.CrossProfileApps: void startActivity(android.content.ComponentName,android.os.UserHandle)>
+<android.content.pm.CrossProfileApps: void startActivity(android.content.Intent,android.os.UserHandle,android.app.Activity,android.os.Bundle)>
+<android.content.pm.CrossProfileApps: void startActivity(android.content.Intent,android.os.UserHandle,android.app.Activity)>
+<android.content.pm.CrossProfileApps: void setInteractAcrossProfilesAppOp(java.lang.String,int)>
+<android.content.ClipboardManager: void clearPrimaryClip()>
+<android.content.ClipboardManager: void addPrimaryClipChangedListener(android.content.ClipboardManager$OnPrimaryClipChangedListener)>
+<android.content.ClipboardManager: void removePrimaryClipChangedListener(android.content.ClipboardManager$OnPrimaryClipChangedListener)>
+<android.content.ClipboardManager: void setPrimaryClip(android.content.ClipData)>
+<android.content.ClipboardManager: void setText(java.lang.CharSequence)>
+<android.text.ClipboardManager: void setText(java.lang.CharSequence)>
+<android.os.BugreportManager: void cancelBugreport()>
+<android.os.BugreportManager: void startBugreport(android.os.ParcelFileDescriptor,android.os.ParcelFileDescriptor,android.os.BugreportParams,java.util.concurrent.Executor,android.os.BugreportManager$BugreportCallback)>
+<android.hardware.input.InputManager: void requestPointerCapture(android.os.IBinder,boolean)>
+<android.companion.CompanionDeviceManager: void disassociate(java.lang.String)>
+<android.companion.CompanionDeviceManager: void requestNotificationAccess(android.content.ComponentName)>
+<android.view.ViewManager: void addView(android.view.View,android.view.ViewGroup$LayoutParams)>
+<android.view.ViewManager: void removeView(android.view.View)>
+<android.view.WindowManager: void removeViewImmediate(android.view.View)>
+<android.view.LayoutInflater: android.view.View inflate(org.xmlpull.v1.XmlPullParser,android.view.ViewGroup,boolean)>
+<android.view.LayoutInflater: android.view.View inflate(org.xmlpull.v1.XmlPullParser,android.view.ViewGroup)>
+<android.view.LayoutInflater: android.view.View inflate(int,android.view.ViewGroup,boolean)>
+<android.view.LayoutInflater: android.view.View inflate(int,android.view.ViewGroup)>
+<android.view.LayoutInflater: android.view.View tryCreateView(android.view.View,java.lang.String,android.content.Context,android.util.AttributeSet)>
+<android.net.IpSecManager: android.net.IpSecManager$IpSecTunnelInterface createIpSecTunnelInterface(java.net.InetAddress,java.net.InetAddress,android.net.Network)>
+<android.net.IpSecManager: android.net.IpSecManager$UdpEncapsulationSocket openUdpEncapsulationSocket(int)>
+<android.net.IpSecManager: android.net.IpSecManager$SecurityParameterIndex allocateSecurityParameterIndex(java.net.InetAddress)>
+<android.net.IpSecManager: void removeTransportModeTransforms(java.net.Socket)>
+<android.net.IpSecManager: void applyTransportModeTransform(java.net.Socket,int,android.net.IpSecTransform)>
+<android.net.IpSecManager: void applyTunnelModeTransform(android.net.IpSecManager$IpSecTunnelInterface,int,android.net.IpSecTransform)>
+<android.net.IpSecManager: android.net.IpSecManager$SecurityParameterIndex allocateSecurityParameterIndex(java.net.InetAddress,int)>
+<android.net.IpSecManager: void applyTransportModeTransform(java.net.DatagramSocket,int,android.net.IpSecTransform)>
+<android.net.IpSecManager: void removeTransportModeTransforms(java.net.DatagramSocket)>
+<android.net.IpSecManager: void applyTransportModeTransform(java.io.FileDescriptor,int,android.net.IpSecTransform)>
+<android.net.IpSecManager: android.net.IpSecManager$UdpEncapsulationSocket openUdpEncapsulationSocket()>
+<android.net.IpSecManager: void removeTransportModeTransforms(java.io.FileDescriptor)>
+<android.os.IncidentManager: void deleteIncidentReports(android.net.Uri)>
+<android.location.CountryDetector: void addCountryListener(android.location.CountryListener,android.os.Looper)>
+<android.location.CountryDetector: void removeCountryListener(android.location.CountryListener)>
+<android.location.CountryDetector: android.location.Country detectCountry()>
+<android.view.accessibility.AccessibilityManager: void sendAccessibilityEvent(android.view.accessibility.AccessibilityEvent)>
+<android.view.accessibility.AccessibilityManager: int addAccessibilityInteractionConnection(android.view.IWindow,android.os.IBinder,java.lang.String,android.view.accessibility.IAccessibilityInteractionConnection)>
+<android.app.NotificationManager: void notifyAsUser(java.lang.String,int,android.app.Notification,android.os.UserHandle)>
+<android.app.NotificationManager: void cancel(int)>
+<android.app.NotificationManager: void createNotificationChannels(java.util.List)>
+<android.app.NotificationManager: void createNotificationChannel(android.app.NotificationChannel)>
+<android.app.NotificationManager: boolean areNotificationsEnabled()>
+<android.app.NotificationManager: void disallowAssistantAdjustment(java.lang.String)>
+<android.app.NotificationManager: void setNotificationDelegate(java.lang.String)>
+<android.app.NotificationManager: java.lang.String addAutomaticZenRule(android.app.AutomaticZenRule)>
+<android.app.NotificationManager: void cancelAsUser(java.lang.String,int,android.os.UserHandle)>
+<android.app.NotificationManager: boolean removeAutomaticZenRules(java.lang.String)>
+<android.app.NotificationManager: void notifyAsPackage(java.lang.String,java.lang.String,int,android.app.Notification)>
+<android.app.NotificationManager: void cancelAsPackage(java.lang.String,java.lang.String,int)>
+<android.app.NotificationManager: boolean matchesCallFilter(android.os.Bundle)>
+<android.app.NotificationManager: void allowAssistantAdjustment(java.lang.String)>
+<android.app.NotificationManager: void setNotificationAssistantAccessGranted(android.content.ComponentName,boolean)>
+<android.app.NotificationManager: boolean updateAutomaticZenRule(java.lang.String,android.app.AutomaticZenRule)>
+<android.app.NotificationManager: void deleteNotificationChannelGroup(java.lang.String)>
+<android.app.NotificationManager: void notify(int,android.app.Notification)>
+<android.app.NotificationManager: void setNotificationPolicy(android.app.NotificationManager$Policy)>
+<android.app.NotificationManager: void setAutomaticZenRuleState(java.lang.String,android.service.notification.Condition)>
+<android.app.NotificationManager: boolean shouldHideSilentStatusBarIcons()>
+<android.app.NotificationManager: void cancelAll()>
+<android.app.NotificationManager: void createNotificationChannelGroup(android.app.NotificationChannelGroup)>
+<android.app.NotificationManager: void createNotificationChannelGroups(java.util.List)>
+<android.app.NotificationManager: void cancel(java.lang.String,int)>
+<android.app.NotificationManager: void deleteNotificationChannel(java.lang.String)>
+<android.app.NotificationManager: void notify(java.lang.String,int,android.app.Notification)>
+<android.app.NotificationManager: boolean areBubblesAllowed()>
+<android.app.NotificationManager: boolean removeAutomaticZenRule(java.lang.String)>
+<android.app.NotificationManager: void setInterruptionFilter(int)>
+<android.content.integrity.AppIntegrityManager: void updateRuleSet(android.content.integrity.RuleSet,android.content.IntentSender)>
+<android.app.prediction.AppPredictionManager: android.app.prediction.AppPredictor createAppPredictionSession(android.app.prediction.AppPredictionContext)>
+<android.hardware.display.ColorDisplayManager: boolean setAppSaturationLevel(java.lang.String,int)>
+<android.media.AudioManager: void unregisterMediaButtonEventReceiver(android.content.ComponentName)>
+<android.media.AudioManager: void setMasterMute(boolean,int)>
+<android.media.AudioManager: int requestAudioFocus(android.media.AudioFocusRequest)>
+<android.media.AudioManager: void setMicrophoneMute(boolean)>
+<android.media.AudioManager: int requestAudioFocus(android.media.AudioManager$OnAudioFocusChangeListener,android.media.AudioAttributes,int,int,android.media.audiopolicy.AudioPolicy)>
+<android.media.AudioManager: int requestAudioFocus(android.media.AudioManager$OnAudioFocusChangeListener,int,int)>
+<android.media.AudioManager: int requestAudioFocus(android.media.AudioFocusRequest,android.media.audiopolicy.AudioPolicy)>
+<android.media.AudioManager: void requestAudioFocusForCall(int,int)>
+<android.media.AudioManager: void unregisterMediaButtonIntent(android.app.PendingIntent)>
+<android.media.AudioManager: void setMode(int)>
+<android.media.AudioManager: void unregisterAudioPolicyAsync(android.media.audiopolicy.AudioPolicy)>
+<android.media.AudioManager: void registerMediaButtonEventReceiver(android.content.ComponentName)>
+<android.media.AudioManager: void setRingerMode(int)>
+<android.media.AudioManager: void unregisterRemoteControlClient(android.media.RemoteControlClient)>
+<android.media.AudioManager: void registerRemoteControlClient(android.media.RemoteControlClient)>
+<android.media.AudioManager: int registerAudioPolicy(android.media.audiopolicy.AudioPolicy)>
+<android.media.AudioManager: void unregisterMediaButtonEventReceiver(android.app.PendingIntent)>
+<android.media.AudioManager: void setVolumeIndexForAttributes(android.media.AudioAttributes,int,int)>
+<android.media.AudioManager: void adjustStreamVolume(int,int,int)>
+<android.media.AudioManager: void setMultiAudioFocusEnabled(boolean)>
+<android.media.AudioManager: void setStreamMute(int,boolean)>
+<android.media.AudioManager: int requestAudioFocus(android.media.AudioManager$OnAudioFocusChangeListener,android.media.AudioAttributes,int,int)>
+<android.media.AudioManager: void reloadAudioSettings()>
+<android.media.AudioManager: void unregisterAudioPolicy(android.media.audiopolicy.AudioPolicy)>
+<android.media.AudioManager: void setDeviceVolumeBehavior(android.media.AudioDeviceAttributes,int)>
+<android.media.AudioManager: void registerMediaButtonIntent(android.app.PendingIntent,android.content.ComponentName)>
+<android.media.AudioManager: void setStreamVolume(int,int,int)>
+<android.media.AudioManager: void registerMediaButtonEventReceiver(android.app.PendingIntent)>
+<android.media.AudioManager: void setDeviceVolumeBehavior(int,java.lang.String,int)>
+<android.app.usage.StorageStatsManager: android.app.usage.StorageStats queryStatsForPackage(java.util.UUID,java.lang.String,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: android.app.usage.StorageStats queryStatsForPackage(java.lang.String,java.lang.String,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: android.app.usage.ExternalStorageStats queryExternalStatsForUser(java.lang.String,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: android.app.usage.StorageStats queryStatsForUid(java.util.UUID,int)>
+<android.app.usage.StorageStatsManager: java.util.Collection queryCratesForUser(java.util.UUID,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: android.app.usage.StorageStats queryStatsForUser(java.util.UUID,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: java.util.Collection queryCratesForPackage(java.util.UUID,java.lang.String,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: java.util.Collection queryCratesForUid(java.util.UUID,int)>
+<android.app.usage.StorageStatsManager: android.app.usage.ExternalStorageStats queryExternalStatsForUser(java.util.UUID,android.os.UserHandle)>
+<android.app.usage.StorageStatsManager: android.app.usage.StorageStats queryStatsForUid(java.lang.String,int)>
+<android.app.usage.StorageStatsManager: android.app.usage.StorageStats queryStatsForUser(java.lang.String,android.os.UserHandle)>
+<android.os.storage.StorageManager: boolean checkPermissionAndCheckOp(android.content.Context,boolean,int,int,java.lang.String,java.lang.String,int)>
+<android.os.storage.StorageManager: void mount(java.lang.String)>
+<android.os.storage.StorageManager: void destroyUserKey(int)>
+<android.os.storage.StorageManager: boolean checkPermissionReadAudio(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: boolean unmountObb(java.lang.String,boolean,android.os.storage.OnObbStateChangeListener)>
+<android.os.storage.StorageManager: void partitionPrivate(java.lang.String)>
+<android.os.storage.StorageManager: void unmount(java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionWriteAudio(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: boolean mountObb(java.lang.String,java.lang.String,android.os.storage.OnObbStateChangeListener)>
+<android.os.storage.StorageManager: void fixupAppDir(java.io.File)>
+<android.os.storage.StorageManager: android.os.ParcelFileDescriptor openProxyFileDescriptor(int,android.os.ProxyFileDescriptorCallback,android.os.Handler,java.util.concurrent.ThreadFactory)>
+<android.os.storage.StorageManager: void format(java.lang.String)>
+<android.os.storage.StorageManager: android.os.ParcelFileDescriptor openProxyFileDescriptor(int,android.os.ProxyFileDescriptorCallback)>
+<android.os.storage.StorageManager: void partitionMixed(java.lang.String,int)>
+<android.os.storage.StorageManager: void setPrimaryStorageUuid(java.lang.String,android.content.pm.IPackageMoveObserver)>
+<android.os.storage.StorageManager: android.os.ParcelFileDescriptor openProxyFileDescriptor(int,android.os.ProxyFileDescriptorCallback,android.os.Handler)>
+<android.os.storage.StorageManager: void mkdirs(java.io.File)>
+<android.os.storage.StorageManager: long benchmark(java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionWriteVideo(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionReadVideo(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: boolean checkPermissionAndAppOp(android.content.Context,boolean,int,int,java.lang.String,java.lang.String,java.lang.String,int)>
+<android.os.storage.StorageManager: boolean checkPermissionReadImages(boolean,int,int,java.lang.String,java.lang.String)>
+<android.os.storage.StorageManager: void createUserKey(int,int,boolean)>
+<android.os.storage.StorageManager: void partitionPublic(java.lang.String)>
+<android.os.storage.StorageManager: void wipeAdoptableDisks()>
+<android.os.storage.StorageManager: void benchmark(java.lang.String,android.os.IVoldTaskListener)>
+<android.os.storage.StorageManager: boolean checkPermissionWriteImages(boolean,int,int,java.lang.String,java.lang.String)>
+<android.app.ActivityTaskManager: void removeStacksInWindowingModes(int[])>
+<android.app.ActivityTaskManager: boolean moveTopActivityToPinnedStack(int,android.graphics.Rect)>
+<android.app.ActivityTaskManager: void removeAllVisibleRecentTasks()>
+<android.app.ActivityTaskManager: void moveTaskToStack(int,int,boolean)>
+<android.app.ActivityTaskManager: boolean setTaskWindowingMode(int,int,boolean)>
+<android.app.ActivityTaskManager: boolean setTaskWindowingModeSplitScreenPrimary(int,int,boolean,boolean,android.graphics.Rect,boolean)>
+<android.app.ActivityTaskManager: void removeStacksWithActivityTypes(int[])>
+<android.app.ActivityTaskManager: void resizeDockedStack(android.graphics.Rect,android.graphics.Rect)>
+<android.net.wifi.nl80211.WifiNl80211Manager: void sendMgmtFrame(java.lang.String,byte[],int,java.util.concurrent.Executor,android.net.wifi.nl80211.WifiNl80211Manager$SendMgmtFrameCallback)>
+<android.content.pm.DataLoaderManager: boolean bindToDataLoader(int,android.content.pm.DataLoaderParamsParcel,android.content.pm.IDataLoaderStatusListener)>
+<android.net.nsd.NsdManager: void setEnabled(boolean)>
+<android.media.soundtrigger.SoundTriggerManager: int loadSoundModel(android.hardware.soundtrigger.SoundTrigger$SoundModel)>
+<android.media.soundtrigger.SoundTriggerManager: int unloadSoundModel(java.util.UUID)>
+<android.media.soundtrigger.SoundTriggerManager: int stopRecognition(java.util.UUID)>
+<android.media.soundtrigger.SoundTriggerManager: int startRecognition(java.util.UUID,android.os.Bundle,android.content.ComponentName,android.hardware.soundtrigger.SoundTrigger$RecognitionConfig)>
+
+<android.graphics.Canvas: void drawBitmap(android.graphics.Bitmap,float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawBitmap(android.graphics.Bitmap,android.graphics.Rect,android.graphics.RectF,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawBitmap(android.graphics.Bitmap,android.graphics.Rect,android.graphics.Rect,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawBitmap(int[],int,int,float,float,int,int,boolean,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawBitmap(int[],int,int,int,int,int,int,boolean,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawBitmap(android.graphics.Bitmap,android.graphics.Metrix,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawPicture(android.graphics.Picture)>
+
+<android.graphics.Canvas: void drawPicture(android.graphics.Picture,android.graphics.RectF)>
+
+<android.graphics.Canvas: void drawPicture(android.graphics.Picture,android.graphics.Rect)>
+
+<android.graphics.Canvas: void drawColor(int)>
+
+<android.graphics.Canvas: void drawColor(long)>
+
+<android.graphics.Canvas: void drawColor(int,android.graphics.PorterDuff)>
+
+<android.graphics.Canvas: void drawColor(int,android.graphics.BlendMode)>
+
+<android.graphics.Canvas: void drawColor(long,android.graphics.BlendMode)>
+
+<android.graphics.Canvas: void drawARGB(int,int,int,int)>
+
+<android.graphics.Canvas: void drawPoint(float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawLine(float,float,float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawCircle(float,float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawArc(android.graphics.RectF,float,float,boolean,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawRect(android.graphics.RectF,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawRect(android.graphics.Rect,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawRect(float,float,float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawRoundRect(android.graphics.RectF,float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawRoundRect(float,float,float,float,float,float,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawPath(android.graphics.Path,android.graphics.Paint)>
+
+<android.graphics.Canvas: void clipPath(android.graphics.Path)>
+
+<android.graphics.Canvas: void clipRect(android.graphics.Rect)>
+
+<android.graphics.Canvas: void clipRect(android.graphics.RectF)>
+
+<android.graphics.Canvas: void clipRect(float,float,float,float)>
+
+<android.graphics.Canvas: void clipRect(int,int,int,int)>
+
+<android.graphics.Canvas: void drawVertices(android.graphics.Canvas.VertexMode,int,float[],int,float[],int,int[],int,short[],int,int,android.graphics.Paint)>
+
+<android.graphics.Canvas: void drawBitmapMesh(android.graphics.Bitmap,int,int,float[],int,int[],int,android.graphics.Paint)>
+
+
+
+
+
+
+
+
+
+
+
